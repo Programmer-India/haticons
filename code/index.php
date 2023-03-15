@@ -38,1989 +38,2484 @@
             <?php
                 $haticons = array(
                     array(
-                        'class' =>'hi-aws',
+                        'class' => 'hi-aws',
+                        'tags' =>'aws, Amazon Web Services',
                         'content'=> "\\f00a"
                     ),
                     array(
                         'class' => 'hi-network',
+                        'tags' => 'network, web, net globe',
                         'content' => "\\e9aa"
                     ),
                     array(
                         'class' => 'hi-haticons',
+                        'tags' => 'haticons, font-icons',
                         'content' => "\\f000"
                     ),
                     array(
                         'class' => 'hi-play',
+                        'tags' => 'play',
                         'content' => "\\f001"
                     ),
                     array(
                         'class' => 'hi-paypal',
+                        'tags' => 'paypal',
                         'content' => "\\f002"
                     ),
                     array(
                         'class' => 'hi-share1',
+                        'tags' => 'share1',
                         'content' => "\\f003"
                     ),
                     array(
                         'class' => 'hi-launchpad',
+                        'tags' => 'launchpad',
                         'content' => "\\f004"
                     ),
                     array(
                         'class' => 'hi-ubuntu',
+                        'tags' => 'ubuntu',
                         'content' => "\\f005"
                     ),
                     array(
                         'class' => 'hi-filezilla',
+                        'tags' => 'filezilla',
                         'content' => "\\f006"
                     ),
                     array(
                         'class' => 'hi-android',
+                        'tags' => 'android',
                         'content' => "\\f007"
                     ),
                     array(
                         'class' => 'hi-apple',
+                        'tags' => 'apple',
                         'content' => "\\f008"
                     ),
                     array(
                         'class' => 'hi-blackberry',
+                        'tags' => 'blackberry',
                         'content' => "\\f009"
                     ),
                     array(
                         'class' => 'hi-aws',
+                        'tags' => 'aws',
                         'content' => "\\f00a"
                     ),
                     array(
                         'class' => 'hi-amd',
+                        'tags' => 'amd',
                         'content' => "\\f00b"
                     ),
                     array(
                         'class' => 'hi-angellist',
+                        'tags' => 'angellist',
                         'content' => "\\f00c"
                     ),
                     array(
                         'class' => 'hi-applemusic',
+                        'tags' => 'applemusic',
                         'content' => "\\f00d"
                     ),
                     array(
                         'class' => 'hi-applepay',
+                        'tags' => 'applepay',
                         'content' => "\\f00e"
                     ),
                     array(
                         'class' => 'hi-archlinux',
+                        'tags' => 'archlinux',
                         'content' => "\\f00f"
                     ),
                     array(
                         'class' => 'hi-blob',
+                        'tags' => 'blob',
                         'content' => "\\f010"
                     ),
                     array(
                         'class' => 'hi-blog',
+                        'tags' => 'blog',
                         'content' => "\\f011"
                     ),
                     array(
                         'class' => 'hi-cat-paw',
+                        'tags' => 'cat-paw',
                         'content' => "\\f012"
                     ),
                     array(
                         'class' => 'hi-chrome',
+                        'tags' => 'chrome',
                         'content' => "\\f013"
                     ),
                     array(
                         'class' => 'hi-coop',
+                        'tags' => 'coop',
                         'content' => "\\f014"
                     ),
                     array(
                         'class' => 'hi-credit-card1',
+                        'tags' => 'credit-card1',
                         'content' => "\\f015"
                     ),
                     array(
                         'class' => 'hi-doctor',
+                        'tags' => 'doctor',
                         'content' => "\\f016"
                     ),
                     array(
                         'class' => 'hi-dog-paw',
+                        'tags' => 'dog-paw',
                         'content' => "\\f017"
                     ),
                     array(
                         'class' => 'hi-drive',
+                        'tags' => 'drive',
                         'content' => "\\f018"
                     ),
                     array(
                         'class' => 'hi-dropbox',
+                        'tags' => 'dropbox',
                         'content' => "\\f019"
                     ),
                     array(
                         'class' => 'hi-artstation',
+                        'tags' => 'artstation',
                         'content' => "\\f01a"
                     ),
                     array(
                         'class' => 'hi-asana',
+                        'tags' => 'asana',
                         'content' => "\\f01b"
                     ),
                     array(
                         'class' => 'hi-at-and-t',
+                        'tags' => 'at-and-t',
                         'content' => "\\f01c"
                     ),
                     array(
                         'class' => 'hi-atlassian',
+                        'tags' => 'atlassian',
                         'content' => "\\f01d"
                     ),
                     array(
                         'class' => 'hi-atom',
+                        'tags' => 'atom',
                         'content' => "\\f01e"
                     ),
                     array(
                         'class' => 'hi-aurelia',
+                        'tags' => 'aurelia',
                         'content' => "\\f01f"
                     ),
                     array(
                         'class' => 'hi-edge',
+                        'tags' => 'edge',
                         'content' => "\\f020"
                     ),
                     array(
                         'class' => 'hi-facebook',
+                        'tags' => 'facebook',
                         'content' => "\\f021"
                     ),
                     array(
                         'class' => 'hi-fire',
+                        'tags' => 'fire',
                         'content' => "\\f022"
                     ),
                     array(
                         'class' => 'hi-folder1',
+                        'tags' => 'folder1',
                         'content' => "\\f023"
                     ),
                     array(
                         'class' => 'hi-google-assistant',
+                        'tags' => 'google-assistant',
                         'content' => "\\f024"
                     ),
                     array(
                         'class' => 'hi-google-plus',
+                        'tags' => 'google-plus',
                         'content' => "\\f025"
                     ),
                     array(
                         'class' => 'hi-google',
+                        'tags' => 'google',
                         'content' => "\\f026"
                     ),
                     array(
                         'class' => 'hi-hangout',
+                        'tags' => 'hangout',
                         'content' => "\\f027"
                     ),
                     array(
                         'class' => 'hi-hard-disk',
+                        'tags' => 'hard-disk',
                         'content' => "\\f028"
                     ),
                     array(
                         'class' => 'hi-home',
+                        'tags' => 'home',
                         'content' => "\\f029"
                     ),
                     array(
                         'class' => 'hi-automatic',
+                        'tags' => 'automatic',
                         'content' => "\\f02a"
                     ),
                     array(
                         'class' => 'hi-autotask',
+                        'tags' => 'autotask',
                         'content' => "\\f02b"
                     ),
                     array(
                         'class' => 'hi-azurepipelines',
+                        'tags' => 'azurepipelines',
                         'content' => "\\f02c"
                     ),
                     array(
                         'class' => 'hi-basecamp',
+                        'tags' => 'basecamp',
                         'content' => "\\f02d"
                     ),
                     array(
                         'class' => 'hi-behance',
+                        'tags' => 'behance',
                         'content' => "\\f02e"
                     ),
                     array(
                         'class' => 'hi-bing',
+                        'tags' => 'bing',
                         'content' => "\\f02f"
                     ),
                     array(
                         'class' => 'hi-html5',
+                        'tags' => 'html5',
                         'content' => "\\f030"
                     ),
                     array(
                         'class' => 'hi-hut',
+                        'tags' => 'hut',
                         'content' => "\\f031"
                     ),
                     array(
                         'class' => 'hi-instagram',
+                        'tags' => 'instagram',
                         'content' => "\\f032"
                     ),
                     array(
                         'class' => 'hi-landline',
+                        'tags' => 'landline',
                         'content' => "\\f033"
                     ),
                     array(
                         'class' => 'hi-linkedin',
+                        'tags' => 'linkedin',
                         'content' => "\\f034"
                     ),
                     array(
                         'class' => 'hi-map',
+                        'tags' => 'map',
                         'content' => "\\f035"
                     ),
                     array(
                         'class' => 'hi-message',
+                        'tags' => 'message',
                         'content' => "\\f036"
                     ),
                     array(
                         'class' => 'hi-music',
+                        'tags' => 'music',
                         'content' => "\\f037"
                     ),
                     array(
                         'class' => 'hi-npm',
+                        'tags' => 'npm',
                         'content' => "\\f038"
                     ),
                     array(
                         'class' => 'hi-pacman',
+                        'tags' => 'pacman',
                         'content' => "\\f039"
                     ),
                     array(
-                    'class' => 'hi-bitbucket',
+                        'class' => 'hi-bitbucket',
+                        'tags' => 'bitbucket',
                         'content' => "\\f03a"
                     ),
                     array(
-                    'class' => 'hi-bitly',
+                        'class' => 'hi-bitly',
+                        'tags' => 'bitly',
                         'content' => "\\f03b"
                     ),
                     array(
-                    'class' => 'hi-blender',
+                        'class' => 'hi-blender',
+                        'tags' => 'blender',
                         'content' => "\\f03c"
                     ),
                     array(
-                    'class' => 'hi-bootstrap',
+                        'class' => 'hi-bootstrap',
+                        'tags' => 'bootstrap',
                         'content' => "\\f03d"
                     ),
                     array(
-                    'class' => 'hi-bower',
+                        'class' => 'hi-bower',
+                        'tags' => 'bower',
                         'content' => "\\f03e"
                     ),
                     array(
-                    'class' => 'hi-cakephp',
+                        'class' => 'hi-cakephp',
+                        'tags' => 'cakephp',
                         'content' => "\\f03f"
                     ),
                     array(
-                    'class' => 'hi-pencil1',
+                        'class' => 'hi-pencil1',
+                        'tags' => 'pencil1',
                         'content' => "\\f040"
                     ),
                     array(
-                    'class' => 'hi-phone',
+                        'class' => 'hi-phone',
+                        'tags' => 'phone',
                         'content' => "\\f041"
                     ),
                     array(
-                    'class' => 'hi-picasa',
+                        'class' => 'hi-picasa',
+                        'tags' => 'picasa',
                         'content' => "\\f042"
                     ),
                     array(
-                    'class' => 'hi-reddit',
+                        'class' => 'hi-reddit',
+                        'tags' => 'reddit',
                         'content' => "\\f043"
                     ),
                     array(
-                    'class' => 'hi-skype',
+                        'class' => 'hi-skype',
+                        'tags' => 'skype',
                         'content' => "\\f044"
                     ),
                     array(
-                    'class' => 'hi-spanchat',
+                        'class' => 'hi-spanchat',
+                        'tags' => 'spanchat',
                         'content' => "\\f045"
                     ),
                     array(
-                    'class' => 'hi-star1',
+                        'class' => 'hi-star1',
+                        'tags' => 'star1',
                         'content' => "\\f046"
                     ),
                     array(
-                    'class' => 'hi-trello',
+                        'class' => 'hi-trello',
+                        'tags' => 'trello',
                         'content' => "\\f047"
                     ),
                     array(
-                    'class' => 'hi-trophy',
+                        'class' => 'hi-trophy',
+                        'tags' => 'trophy',
                         'content' => "\\f048"
                     ),
                     array(
-                    'class' => 'hi-twitter-font',
+                        'class' => 'hi-twitter-font',
+                        'tags' => 'twitter-font',
                         'content' => "\\f049"
                     ),
                     array(
-                    'class' => 'hi-campaignmonitor',
+                        'class' => 'hi-campaignmonitor',
+                        'tags' => 'campaignmonitor',
                         'content' => "\\f04a"
                     ),
                     array(
-                    'class' => 'hi-dailymotion',
+                        'class' => 'hi-dailymotion',
+                        'tags' => 'dailymotion',
                         'content' => "\\f04b"
                     ),
                     array(
-                    'class' => 'hi-coffeescript',
+                        'class' => 'hi-coffeescript',
+                        'tags' => 'coffeescript',
                         'content' => "\\f04c"
                     ),
                     array(
-                    'class' => 'hi-conda-forge',
+                        'class' => 'hi-conda-forge',
+                        'tags' => 'conda-forge',
                         'content' => "\\f04d"
                     ),
                     array(
-                    'class' => 'hi-css3',
+                        'class' => 'hi-css3',
+                        'tags' => 'css3',
                         'content' => "\\f04e"
                     ),
                     array(
-                    'class' => 'hi-csswizardry',
+                        'class' => 'hi-csswizardry',
+                        'tags' => 'csswizardry',
                         'content' => "\\f04f"
                     ),
                     array(
-                    'class' => 'hi-twitter',
+                        'class' => 'hi-twitter',
+                        'tags' => 'twitter',
                         'content' => "\\f050"
                     ),
                     array(
-                    'class' => 'hi-wholensole',
+                        'class' => 'hi-wholensole',
+                        'tags' => 'wholensole',
                         'content' => "\\f051"
                     ),
                     array(
-                    'class' => 'hi-windows',
+                        'class' => 'hi-windows',
+                        'tags' => 'windows',
                         'content' => "\\f052"
                     ),
                     array(
-                    'class' => 'hi-youtube-play',
+                        'class' => 'hi-youtube-play',
+                        'tags' => 'youtube-play',
                         'content' => "\\f053"
                     ),
                     array(
-                    'class' => 'hi-amazon',
+                        'class' => 'hi-amazon',
+                        'tags' => 'amazon',
                         'content' => "\\f054"
                     ),
                     array(
-                    'class' => 'hi-redo1',
+                        'class' => 'hi-redo1',
+                        'tags' => 'redo1',
                         'content' => "\\f055"
                     ),
                     array(
-                    'class' => 'hi-undo1',
+                        'class' => 'hi-undo1',
+                        'tags' => 'undo1',
                         'content' => "\\f056"
                     ),
                     array(
-                    'class' => 'hi-profile',
+                        'class' => 'hi-profile',
+                        'tags' => 'profile',
                         'content' => "\\f057"
                     ),
                     array(
-                    'class' => 'hi-clubs',
+                        'class' => 'hi-clubs',
+                        'tags' => 'clubs',
                         'content' => "\\f058"
                     ),
                     array(
-                    'class' => 'hi-spades',
+                        'class' => 'hi-spades',
+                        'tags' => 'spades',
                         'content' => "\\f059"
                     ),
                     array(
-                    'class' => 'hi-diamonds',
+                        'class' => 'hi-diamonds',
+                        'tags' => 'diamonds',
                         'content' => "\\f05a"
                     ),
                     array(
-                    'class' => 'hi-heart',
+                        'class' => 'hi-heart',
+                        'tags' => 'heart',
                         'content' => "\\f05b"
                     ),
                     array(
-                    'class' => 'hi-sim_card',
+                        'class' => 'hi-sim_card',
+                        'tags' => 'sim_card',
                         'content' => "\\f05c"
                     ),
                     array(
-                    'class' => 'hi-trash1',
+                        'class' => 'hi-trash1',
+                        'tags' => 'trash1',
                         'content' => "\\f05d"
                     ),
                     array(
-                    'class' => 'hi-attachment1',
+                        'class' => 'hi-attachment1',
+                        'tags' => 'attachment1',
                         'content' => "\\f05e"
                     ),
                     array(
-                    'class' => 'hi-thumbs-down',
+                        'class' => 'hi-thumbs-down',
+                        'tags' => 'thumbs-down',
                         'content' => "\\f05f"
                     ),
                     array(
-                    'class' => 'hi-thumbs-up',
+                        'class' => 'hi-thumbs-up',
+                        'tags' => 'thumbs-up',
                         'content' => "\\f060"
                     ),
                     array(
-                    'class' => 'hi-to-do',
+                        'class' => 'hi-to-do',
+                        'tags' => 'to-do',
                         'content' => "\\f061"
                     ),
                     array(
-                    'class' => 'hi-dream11',
+                        'class' => 'hi-dream11',
+                        'tags' => 'dream11',
                         'content' => "\\f062"
                     ),
                     array(
-                    'class' => 'hi-suru',
+                        'class' => 'hi-suru',
+                        'tags' => 'suru',
                         'content' => "\\f063"
                     ),
                     array(
-                    'class' => 'hi-slack',
+                        'class' => 'hi-slack',
+                        'tags' => 'slack',
                         'content' => "\\f064"
                     ),
                     array(
-                    'class' => 'hi-microblog',
+                        'class' => 'hi-microblog',
+                        'tags' => 'microblog',
                         'content' => "\\f065"
                     ),
                     array(
-                    'class' => 'hi-microgenetics',
+                        'class' => 'hi-microgenetics',
+                        'tags' => 'microgenetics',
                         'content' => "\\f066"
                     ),
                     array(
-                    'class' => 'hi-microsoft',
+                        'class' => 'hi-microsoft',
+                        'tags' => 'microsoft',
                         'content' => "\\f067"
                     ),
                     array(
-                    'class' => 'hi-microsoft-access',
+                        'class' => 'hi-microsoft-access',
+                        'tags' => 'microsoft-access',
                         'content' => "\\f068"
                     ),
                     array(
-                    'class' => 'hi-microsoftexcel',
+                        'class' => 'hi-microsoftexcel',
+                        'tags' => 'microsoftexcel',
                         'content' => "\\f069"
                     ),
                     array(
-                    'class' => 'hi-microsoft-one-note',
+                        'class' => 'hi-microsoft-one-note',
+                        'tags' => 'microsoft-one-note',
                         'content' => "\\f06a"
                     ),
                     array(
-                    'class' => 'hi-microsoft-outlook',
+                        'class' => 'hi-microsoft-outlook',
+                        'tags' => 'microsoft-outlook',
                         'content' => "\\f06b"
                     ),
                     array(
-                    'class' => 'hi-microsoft-power-point',
+                        'class' => 'hi-microsoft-power-point',
+                        'tags' => 'microsoft-power-point',
                         'content' => "\\f06c"
                     ),
                     array(
-                    'class' => 'hi-microsoft-word',
+                        'class' => 'hi-microsoft-word',
+                        'tags' => 'microsoft-word',
                         'content' => "\\f06d"
                     ),
                     array(
-                    'class' => 'hi-prismic',
+                        'class' => 'hi-prismic',
+                        'tags' => 'prismic',
                         'content' => "\\f06e"
                     ),
                     array(
-                    'class' => 'hi-statamic',
+                        'class' => 'hi-statamic',
+                        'tags' => 'statamic',
                         'content' => "\\f06f"
                     ),
                     array(
-                    'class' => 'hi-archive',
+                        'class' => 'hi-archive',
+                        'tags' => 'archive',
                         'content' => "\\f070"
                     ),
                     array(
-                    'class' => 'hi-library',
+                        'class' => 'hi-library',
+                        'tags' => 'library',
                         'content' => "\\f071"
                     ),
                     array(
-                    'class' => 'hi-zoom-out1',
+                        'class' => 'hi-zoom-out1',
+                        'tags' => 'zoom-out1',
                         'content' => "\\f072"
                     ),
                     array(
-                    'class' => 'hi-bell1',
+                        'class' => 'hi-bell1',
+                        'tags' => 'bell1',
                         'content' => "\\f073"
                     ),
                     array(
-                    'class' => 'hi-location',
+                        'class' => 'hi-location',
+                        'tags' => 'location',
                         'content' => "\\f074"
                     ),
                     array(
-                    'class' => 'hi-allo',
+                        'class' => 'hi-allo',
+                        'tags' => 'allo',
                         'content' => "\\f075"
                     ),
                     array(
-                    'class' => 'hi-block',
+                        'class' => 'hi-block',
+                        'tags' => 'block',
                         'content' => "\\f076"
                     ),
                     array(
-                    'class' => 'hi-book-my-show',
+                        'class' => 'hi-book-my-show',
+                        'tags' => 'book-my-show',
                         'content' => "\\f077"
                     ),
                     array(
-                    'class' => 'hi-duo',
+                        'class' => 'hi-duo',
+                        'tags' => 'duo',
                         'content' => "\\f078"
                     ),
                     array(
-                    'class' => 'hi-electric',
+                        'class' => 'hi-electric',
+                        'tags' => 'electric',
                         'content' => "\\f079"
                     ),
                     array(
-                    'class' => 'hi-gaming-console',
+                        'class' => 'hi-gaming-console',
+                        'tags' => 'gaming-console',
                         'content' => "\\f07a"
                     ),
                     array(
-                    'class' => 'hi-lego-face',
+                        'class' => 'hi-lego-face',
+                        'tags' => 'lego-face',
                         'content' => "\\f07b"
                     ),
                     array(
-                    'class' => 'hi-maestro',
+                        'class' => 'hi-maestro',
+                        'tags' => 'maestro',
                         'content' => "\\f07c"
                     ),
                     array(
-                    'class' => 'hi-master-card',
+                        'class' => 'hi-master-card',
+                        'tags' => 'master-card',
                         'content' => "\\f07d"
                     ),
                     array(
-                    'class' => 'hi-medium',
+                        'class' => 'hi-medium',
+                        'tags' => 'medium',
                         'content' => "\\f07e"
                     ),
                     array(
-                    'class' => 'hi-paytm',
+                        'class' => 'hi-paytm',
+                        'tags' => 'paytm',
                         'content' => "\\f07f"
                     ),
                     array(
-                    'class' => 'hi-play-station',
+                        'class' => 'hi-play-station',
+                        'tags' => 'play-station',
                         'content' => "\\f080"
                     ),
                     array(
-                    'class' => 'hi-plugin',
+                        'class' => 'hi-plugin',
+                        'tags' => 'plugin',
                         'content' => "\\f081"
                     ),
                     array(
-                    'class' => 'hi-pocket',
+                        'class' => 'hi-pocket',
+                        'tags' => 'pocket',
                         'content' => "\\f082"
                     ),
                     array(
-                    'class' => 'hi-programmerindia',
+                        'class' => 'hi-programmerindia',
+                        'tags' => 'programmerindia',
                         'content' => "\\f083"
                     ),
                     array(
-                    'class' => 'hi-search1',
+                        'class' => 'hi-search1',
+                        'tags' => 'search1',
                         'content' => "\\f084"
                     ),
                     array(
-                    'class' => 'hi-ad-block-plus',
+                        'class' => 'hi-ad-block-plus',
+                        'tags' => 'ad-block-plus',
                         'content' => "\\f085"
                     ),
                     array(
-                    'class' => 'hi-swiggy',
+                        'class' => 'hi-swiggy',
+                        'tags' => 'swiggy',
                         'content' => "\\f086"
                     ),
                     array(
-                    'class' => 'hi-tumblr',
+                        'class' => 'hi-tumblr',
+                        'tags' => 'tumblr',
                         'content' => "\\f087"
                     ),
                     array(
-                    'class' => 'hi-uber-driver',
+                        'class' => 'hi-uber-driver',
+                        'tags' => 'uber-driver',
                         'content' => "\\f088"
                     ),
                     array(
-                    'class' => 'hi-uber-freight',
+                        'class' => 'hi-uber-freight',
+                        'tags' => 'uber-freight',
                         'content' => "\\f089"
                     ),
                     array(
-                    'class' => 'hi-uber',
+                        'class' => 'hi-uber',
+                        'tags' => 'uber',
                         'content' => "\\f08a"
                     ),
                     array(
-                    'class' => 'hi-visa',
+                        'class' => 'hi-visa',
+                        'tags' => 'visa',
                         'content' => "\\f08b"
                     ),
                     array(
-                    'class' => 'hi-yash-raj',
+                        'class' => 'hi-yash-raj',
+                        'tags' => 'yash-raj',
                         'content' => "\\f08c"
                     ),
                     array(
-                    'class' => 'hi-zomato',
+                        'class' => 'hi-zomato',
+                        'tags' => 'zomato',
                         'content' => "\\f08d"
                     ),
                     array(
-                    'class' => 'hi-zoom-in1',
+                        'class' => 'hi-zoom-in1',
+                        'tags' => 'zoom-in1',
                         'content' => "\\f08e"
                     ),
                     array(
-                    'class' => 'hi-finder',
+                        'class' => 'hi-finder',
+                        'tags' => 'finder',
                         'content' => "\\f08f"
                     ),
                     array(
-                    'class' => 'hi-washing-machine',
+                        'class' => 'hi-washing-machine',
+                        'tags' => 'washing-machine',
                         'content' => "\\f090"
                     ),
                     array(
-                    'class' => 'hi-tags',
+                        'class' => 'hi-tags',
+                        'tags' => 'tags',
                         'content' => "\\f091"
                     ),
                     array(
-                    'class' => 'hi-tag',
+                        'class' => 'hi-tag',
+                        'tags' => 'tag',
                         'content' => "\\f092"
                     ),
                     array(
-                    'class' => 'hi-more',
+                        'class' => 'hi-more',
+                        'tags' => 'more',
                         'content' => "\\f093"
                     ),
                     array(
-                    'class' => 'hi-nav',
+                        'class' => 'hi-nav',
+                        'tags' => 'nav',
                         'content' => "\\f094"
                     ),
                     array(
-                    'class' => 'hi-help',
+                        'class' => 'hi-help',
+                        'tags' => 'help',
                         'content' => "\\f095"
                     ),
                     array(
-                    'class' => 'hi-gmail',
+                        'class' => 'hi-gmail',
+                        'tags' => 'gmail',
                         'content' => "\\f096"
                     ),
                     array(
-                    'class' => 'hi-letterboxd1',
+                        'class' => 'hi-letterboxd1',
+                        'tags' => 'letterboxd1',
                         'content' => "\\f097"
                     ),
                     array(
-                    'class' => 'hi-mailchimp',
+                        'class' => 'hi-mailchimp',
+                        'tags' => 'mailchimp',
                         'content' => "\\f098"
                     ),
                     array(
-                    'class' => 'hi-mailru',
+                        'class' => 'hi-mailru',
+                        'tags' => 'mailru',
                         'content' => "\\f099"
                     ),
                     array(
-                    'class' => 'hi-protonmail',
+                        'class' => 'hi-protonmail',
+                        'tags' => 'protonmail',
                         'content' => "\\f09a"
                     ),
                     array(
-                    'class' => 'hi-envelope1',
+                        'class' => 'hi-envelope1',
+                        'tags' => 'envelope1',
                         'content' => "\\f09b"
                     ),
                     array(
-                    'class' => 'hi-envelope-open',
+                        'class' => 'hi-envelope-open',
+                        'tags' => 'envelope-open',
                         'content' => "\\f09c"
                     ),
                     array(
-                    'class' => 'hi-paper-plane1',
+                        'class' => 'hi-paper-plane1',
+                        'tags' => 'paper-plane1',
                         'content' => "\\f09d"
                     ),
                     array(
-                    'class' => 'hi-user1',
+                        'class' => 'hi-user1',
+                        'tags' => 'user1',
                         'content' => "\\f09e"
                     ),
                     array(
-                    'class' => 'hi-user-plus',
+                        'class' => 'hi-user-plus',
+                        'tags' => 'user-plus',
                         'content' => "\\f09f"
                     ),
                     array(
-                    'class' => 'hi-unity',
+                        'class' => 'hi-unity',
+                        'tags' => 'unity',
                         'content' => "\\f0a0"
                     ),
                     array(
-                    'class' => 'hi-upwork',
+                        'class' => 'hi-upwork',
+                        'tags' => 'upwork',
                         'content' => "\\f0a1"
                     ),
                     array(
-                    'class' => 'hi-viadeo',
+                        'class' => 'hi-viadeo',
+                        'tags' => 'viadeo',
                         'content' => "\\f0a2"
                     ),
                     array(
-                    'class' => 'hi-vim',
+                        'class' => 'hi-vim',
+                        'tags' => 'vim',
                         'content' => "\\f0a3"
                     ),
                     array(
-                    'class' => 'hi-vimeo',
+                        'class' => 'hi-vimeo',
+                        'tags' => 'vimeo',
                         'content' => "\\f0a4"
                     ),
                     array(
-                    'class' => 'hi-vine',
+                        'class' => 'hi-vine',
+                        'tags' => 'vine',
                         'content' => "\\f0a5"
                     ),
                     array(
-                    'class' => 'hi-visualstudiocode',
+                        'class' => 'hi-visualstudiocode',
+                        'tags' => 'visualstudiocode',
                         'content' => "\\f0a6"
                     ),
                     array(
-                    'class' => 'hi-vk',
+                        'class' => 'hi-vk',
+                        'tags' => 'vk',
                         'content' => "\\f0a7"
                     ),
                     array(
-                    'class' => 'hi-vlcmediaplayer',
+                        'class' => 'hi-vlcmediaplayer',
+                        'tags' => 'vlcmediaplayer',
                         'content' => "\\f0a8"
                     ),
                     array(
-                    'class' => 'hi-vue-js',
+                        'class' => 'hi-vue-js',
+                        'tags' => 'vue-js',
                         'content' => "\\f0a9"
                     ),
                     array(
-                    'class' => 'hi-webstorm',
+                        'class' => 'hi-webstorm',
+                        'tags' => 'webstorm',
                         'content' => "\\f0aa"
                     ),
                     array(
-                    'class' => 'hi-wechat',
+                        'class' => 'hi-wechat',
+                        'tags' => 'wechat',
                         'content' => "\\f0ab"
                     ),
                     array(
-                    'class' => 'hi-wheniwork',
+                        'class' => 'hi-wheniwork',
+                        'tags' => 'wheniwork',
                         'content' => "\\f0ac"
                     ),
                     array(
-                    'class' => 'hi-wikipedia',
+                        'class' => 'hi-wikipedia',
+                        'tags' => 'wikipedia',
                         'content' => "\\f0ad"
                     ),
                     array(
-                    'class' => 'hi-wix',
+                        'class' => 'hi-wix',
+                        'tags' => 'wix',
                         'content' => "\\f0ae"
                     ),
                     array(
-                    'class' => 'hi-wordpress',
+                        'class' => 'hi-wordpress',
+                        'tags' => 'wordpress',
                         'content' => "\\f0af"
                     ),
                     array(
-                    'class' => 'hi-xbox',
+                        'class' => 'hi-xbox',
+                        'tags' => 'xbox',
                         'content' => "\\f0b0"
                     ),
                     array(
-                    'class' => 'hi-xcode',
+                        'class' => 'hi-xcode',
+                        'tags' => 'xcode',
                         'content' => "\\f0b1"
                     ),
                     array(
-                    'class' => 'hi-xing',
+                        'class' => 'hi-xing',
+                        'tags' => 'xing',
                         'content' => "\\f0b2"
                     ),
                     array(
-                    'class' => 'hi-yammer',
+                        'class' => 'hi-yammer',
+                        'tags' => 'yammer',
                         'content' => "\\f0b3"
                     ),
                     array(
-                    'class' => 'hi-yandex',
+                        'class' => 'hi-yandex',
+                        'tags' => 'yandex',
                         'content' => "\\f0b4"
                     ),
                     array(
-                    'class' => 'hi-yarn',
+                        'class' => 'hi-yarn',
+                        'tags' => 'yarn',
                         'content' => "\\f0b5"
                     ),
                     array(
-                    'class' => 'hi-ycombinator',
+                        'class' => 'hi-ycombinator',
+                        'tags' => 'ycombinator',
                         'content' => "\\f0b6"
                     ),
                     array(
-                    'class' => 'hi-zendesk',
+                        'class' => 'hi-zendesk',
+                        'tags' => 'zendesk',
                         'content' => "\\f0b7"
                     ),
                     array(
-                    'class' => 'hi-zerply',
+                        'class' => 'hi-zerply',
+                        'tags' => 'zerply',
                         'content' => "\\f0b8"
                     ),
                     array(
-                    'class' => 'hi-zillow',
+                        'class' => 'hi-zillow',
+                        'tags' => 'zillow',
                         'content' => "\\f0b9"
                     ),
                     array(
-                    'class' => 'hi-zorin',
+                        'class' => 'hi-zorin',
+                        'tags' => 'zorin',
                         'content' => "\\f0ba"
                     ),
                     array(
-                    'class' => 'hi-tic-tac-toe',
+                        'class' => 'hi-tic-tac-toe',
+                        'tags' => 'tic-tac-toe',
                         'content' => "\\f0bb"
                     ),
                     array(
-                    'class' => 'hi-pakpak',
+                        'class' => 'hi-pakpak',
+                        'tags' => 'pakpak',
                         'content' => "\\f0bc"
                     ),
                     array(
-                    'class' => 'hi-user-minus',
+                        'class' => 'hi-user-minus',
+                        'tags' => 'user-minus',
                         'content' => "\\f0f0"
                     ),
                     array(
-                    'class' => 'hi-user-check',
+                        'class' => 'hi-user-check',
+                        'tags' => 'user-check',
                         'content' => "\\f0f1"
                     ),
                     array(
-                    'class' => 'hi-users1',
+                        'class' => 'hi-users1',
+                        'tags' => 'users1',
                         'content' => "\\f0f2"
                     ),
                     array(
-                    'class' => 'hi-gravatar',
+                        'class' => 'hi-gravatar',
+                        'tags' => 'gravatar',
                         'content' => "\\f0f3"
                     ),
                     array(
-                    'class' => 'hi-superuser',
+                        'class' => 'hi-superuser',
+                        'tags' => 'superuser',
                         'content' => "\\f0f4"
                     ),
                     array(
-                    'class' => 'hi-key',
+                        'class' => 'hi-key',
+                        'tags' => 'key',
                         'content' => "\\f0f5"
                     ),
                     array(
-                    'class' => 'hi-angular',
+                        'class' => 'hi-angular',
+                        'tags' => 'angular',
                         'content' => "\\f0f6"
                     ),
                     array(
-                    'class' => 'hi-ola-cabs',
+                        'class' => 'hi-ola-cabs',
+                        'tags' => 'ola-cabs',
                         'content' => "\\f0f7"
                     ),
                     array(
-                    'class' => 'hi-bitcoin',
+                        'class' => 'hi-bitcoin',
+                        'tags' => 'bitcoin',
                         'content' => "\\f0f8"
                     ),
                     array(
-                    'class' => 'hi-tinder-icon',
+                        'class' => 'hi-tinder-icon',
+                        'tags' => 'tinder-icon',
                         'content' => "\\f0f9"
                     ),
                     array(
-                    'class' => 'hi-viber-icon',
+                        'class' => 'hi-viber-icon',
+                        'tags' => 'viber-icon',
                         'content' => "\\f0fa"
                     ),
                     array(
-                    'class' => 'hi-whatsapp',
+                        'class' => 'hi-whatsapp',
+                        'tags' => 'whatsapp',
                         'content' => "\\f0fb"
                     ),
                     array(
-                    'class' => 'hi-steam',
+                        'class' => 'hi-steam',
+                        'tags' => 'steam',
                         'content' => "\\f0fc"
                     ),
                     array(
-                    'class' => 'hi-github',
+                        'class' => 'hi-github',
+                        'tags' => 'github',
                         'content' => "\\f0fd"
                     ),
                     array(
-                    'class' => 'hi-tux',
+                        'class' => 'hi-tux',
+                        'tags' => 'tux',
                         'content' => "\\f0fe"
                     ),
                     array(
-                    'class' => 'hi-firefox',
+                        'class' => 'hi-firefox',
+                        'tags' => 'firefox',
                         'content' => "\\f0ff"
                     ),
                     array(
-                    'class' => 'hi-git',
+                        'class' => 'hi-git',
+                        'tags' => 'git',
                         'content' => "\\f100"
                     ),
                     array(
-                    'class' => 'hi-check1',
+                        'class' => 'hi-check1',
+                        'tags' => 'check1',
                         'content' => "\\f101"
                     ),
                     array(
-                    'class' => 'hi-close',
+                        'class' => 'hi-close',
+                        'tags' => 'close',
                         'content' => "\\f102"
                     ),
                     array(
-                    'class' => 'hi-adobe',
+                        'class' => 'hi-adobe',
+                        'tags' => 'adobe',
                         'content' => "\\f103"
                     ),
                     array(
-                    'class' => 'hi-appboxlab',
+                        'class' => 'hi-appboxlab',
+                        'tags' => 'appboxlab',
                         'content' => "\\f104"
                     ),
                     array(
-                    'class' => 'hi-bean-bag',
+                        'class' => 'hi-bean-bag',
+                        'tags' => 'bean-bag',
                         'content' => "\\f105"
                     ),
                     array(
-                    'class' => 'hi-bulb',
+                        'class' => 'hi-bulb',
+                        'tags' => 'bulb',
                         'content' => "\\f106"
                     ),
                     array(
-                    'class' => 'hi-bus',
+                        'class' => 'hi-bus',
+                        'tags' => 'bus',
                         'content' => "\\f107"
                     ),
                     array(
-                    'class' => 'hi-camera1',
+                        'class' => 'hi-camera1',
+                        'tags' => 'camera1',
                         'content' => "\\f108"
                     ),
                     array(
-                    'class' => 'hi-car',
+                        'class' => 'hi-car',
+                        'tags' => 'car',
                         'content' => "\\f109"
                     ),
                     array(
-                    'class' => 'hi-checkbox-unchecked',
+                        'class' => 'hi-checkbox-unchecked',
+                        'tags' => 'checkbox-unchecked',
                         'content' => "\\f10b"
                     ),
                     array(
-                    'class' => 'hi-checked',
+                        'class' => 'hi-checked',
+                        'tags' => 'checked',
                         'content' => "\\f10c"
                     ),
                     array(
-                    'class' => 'hi-cookie',
+                        'class' => 'hi-cookie',
+                        'tags' => 'cookie',
                         'content' => "\\f10f"
                     ),
                     array(
-                    'class' => 'hi-creative-cloud',
+                        'class' => 'hi-creative-cloud',
+                        'tags' => 'creative-cloud',
                         'content' => "\\f110"
                     ),
                     array(
-                    'class' => 'hi-dihadiwala',
+                        'class' => 'hi-dihadiwala',
+                        'tags' => 'dihadiwala',
                         'content' => "\\f111"
                     ),
                     array(
-                    'class' => 'hi-edit',
+                        'class' => 'hi-edit',
+                        'tags' => 'edit',
                         'content' => "\\f112"
                     ),
                     array(
-                    'class' => 'hi-flag1',
+                        'class' => 'hi-flag1',
+                        'tags' => 'flag1',
                         'content' => "\\f113"
                     ),
                     array(
-                    'class' => 'hi-grofers',
+                        'class' => 'hi-grofers',
+                        'tags' => 'grofers',
                         'content' => "\\f114"
                     ),
                     array(
-                    'class' => 'hi-images',
+                        'class' => 'hi-images',
+                        'tags' => 'images',
                         'content' => "\\f115"
                     ),
                     array(
-                    'class' => 'hi-incognito',
+                        'class' => 'hi-incognito',
+                        'tags' => 'incognito',
                         'content' => "\\f116"
                     ),
                     array(
-                    'class' => 'hi-indane',
+                        'class' => 'hi-indane',
+                        'tags' => 'indane',
                         'content' => "\\f117"
                     ),
                     array(
-                    'class' => 'hi-info1',
+                        'class' => 'hi-info1',
+                        'tags' => 'info1',
                         'content' => "\\f118"
                     ),
                     array(
-                    'class' => 'hi-kadam',
+                        'class' => 'hi-kadam',
+                        'tags' => 'kadam',
                         'content' => "\\f119"
                     ),
                     array(
-                    'class' => 'hi-lock1',
+                        'class' => 'hi-lock1',
+                        'tags' => 'lock1',
                         'content' => "\\f11a"
                     ),
                     array(
-                    'class' => 'hi-lucifer',
+                        'class' => 'hi-lucifer',
+                        'tags' => 'lucifer',
                         'content' => "\\f11b"
                     ),
                     array(
-                    'class' => 'hi-messenger',
+                        'class' => 'hi-messenger',
+                        'tags' => 'messenger',
                         'content' => "\\f11c"
                     ),
                     array(
-                    'class' => 'hi-meteor',
+                        'class' => 'hi-meteor',
+                        'tags' => 'meteor',
                         'content' => "\\f11d"
                     ),
                     array(
-                    'class' => 'hi-ojook',
+                        'class' => 'hi-ojook',
+                        'tags' => 'ojook',
                         'content' => "\\f11e"
                     ),
                     array(
-                    'class' => 'hi-orchid',
+                        'class' => 'hi-orchid',
+                        'tags' => 'orchid',
                         'content' => "\\f11f"
                     ),
                     array(
-                    'class' => 'hi-paintbox',
+                        'class' => 'hi-paintbox',
+                        'tags' => 'paintbox',
                         'content' => "\\f120"
                     ),
                     array(
-                    'class' => 'hi-radio-checked',
+                        'class' => 'hi-radio-checked',
+                        'tags' => 'radio-checked',
                         'content' => "\\f121"
                     ),
                     array(
-                    'class' => 'hi-robot',
+                        'class' => 'hi-robot',
+                        'tags' => 'robot',
                         'content' => "\\f123"
                     ),
                     array(
-                    'class' => 'hi-support',
+                        'class' => 'hi-support',
+                        'tags' => 'support',
                         'content' => "\\f124"
                     ),
                     array(
-                    'class' => 'hi-tooth',
+                        'class' => 'hi-tooth',
+                        'tags' => 'tooth',
                         'content' => "\\f125"
                     ),
                     array(
-                    'class' => 'hi-unlock',
+                        'class' => 'hi-unlock',
+                        'tags' => 'unlock',
                         'content' => "\\f126"
                     ),
                     array(
-                    'class' => 'hi-wallet',
+                        'class' => 'hi-wallet',
+                        'tags' => 'wallet',
                         'content' => "\\f127"
                     ),
                     array(
-                    'class' => 'hi-calendar1',
+                        'class' => 'hi-calendar1',
+                        'tags' => 'calendar1',
                         'content' => "\\f128"
                     ),
                     array(
-                    'class' => 'hi-elastic-cloud',
+                        'class' => 'hi-elastic-cloud',
+                        'tags' => 'elastic-cloud',
                         'content' => "\\f12b"
                     ),
                     array(
-                    'class' => 'hi-icloud',
+                        'class' => 'hi-icloud',
+                        'tags' => 'icloud',
                         'content' => "\\f12c"
                     ),
                     array(
-                    'class' => 'hi-cloudflare',
+                        'class' => 'hi-cloudflare',
+                        'tags' => 'cloudflare',
                         'content' => "\\f12d"
                     ),
                     array(
-                    'class' => 'hi-soundcloud',
+                        'class' => 'hi-soundcloud',
+                        'tags' => 'soundcloud',
                         'content' => "\\f12e"
                     ),
                     array(
-                    'class' => 'hi-ionic',
+                        'class' => 'hi-ionic',
+                        'tags' => 'ionic',
                         'content' => "\\f12f"
                     ),
                     array(
-                    'class' => 'hi-mail',
+                        'class' => 'hi-mail',
+                        'tags' => 'mail',
                         'content' => "\\f130"
                     ),
                     array(
-                    'class' => 'hi-time1',
+                        'class' => 'hi-time1',
+                        'tags' => 'time1',
                         'content' => "\\f131"
                     ),
                     array(
-                    'class' => 'hi-bookmark-o',
+                        'class' => 'hi-bookmark-o',
+                        'tags' => 'bookmark-o',
                         'content' => "\\f132"
                     ),
                     array(
-                    'class' => 'hi-bookmark',
+                        'class' => 'hi-bookmark',
+                        'tags' => 'bookmark',
                         'content' => "\\f133"
                     ),
                     array(
-                    'class' => 'hi-star-o1',
+                        'class' => 'hi-star-o1',
+                        'tags' => 'star-o1',
                         'content' => "\\f134"
                     ),
                     array(
-                    'class' => 'hi-star-half',
+                        'class' => 'hi-star-half',
+                        'tags' => 'star-half',
                         'content' => "\\f135"
                     ),
                     array(
-                    'class' => 'hi-debian',
+                        'class' => 'hi-debian',
+                        'tags' => 'debian',
                         'content' => "\\f136"
                     ),
                     array(
-                    'class' => 'hi-dell',
+                        'class' => 'hi-dell',
+                        'tags' => 'dell',
                         'content' => "\\f137"
                     ),
                     array(
-                    'class' => 'hi-deno',
+                        'class' => 'hi-deno',
+                        'tags' => 'deno',
                         'content' => "\\f138"
                     ),
                     array(
-                    'class' => 'hi-dependabot',
+                        'class' => 'hi-dependabot',
+                        'tags' => 'dependabot',
                         'content' => "\\f139"
                     ),
                     array(
-                    'class' => 'hi-digg',
+                        'class' => 'hi-digg',
+                        'tags' => 'digg',
                         'content' => "\\f13a"
                     ),
                     array(
-                    'class' => 'hi-digitalocean',
+                        'class' => 'hi-digitalocean',
+                        'tags' => 'digitalocean',
                         'content' => "\\f13b"
                     ),
                     array(
-                    'class' => 'hi-dribbble',
+                        'class' => 'hi-dribbble',
+                        'tags' => 'dribbble',
                         'content' => "\\f13c"
                     ),
                     array(
-                    'class' => 'hi-ebay',
+                        'class' => 'hi-ebay',
+                        'tags' => 'ebay',
                         'content' => "\\f13d"
                     ),
                     array(
-                    'class' => 'hi-eclipseide',
+                        'class' => 'hi-eclipseide',
+                        'tags' => 'eclipseide',
                         'content' => "\\f13e"
                     ),
                     array(
-                    'class' => 'hi-eventbrite',
+                        'class' => 'hi-eventbrite',
+                        'tags' => 'eventbrite',
                         'content' => "\\f13f"
                     ),
                     array(
-                    'class' => 'hi-evernote',
+                        'class' => 'hi-evernote',
+                        'tags' => 'evernote',
                         'content' => "\\f140"
                     ),
                     array(
-                    'class' => 'hi-everplaces',
+                        'class' => 'hi-everplaces',
+                        'tags' => 'everplaces',
                         'content' => "\\f141"
                     ),
                     array(
-                    'class' => 'hi-f-secure',
+                        'class' => 'hi-f-secure',
+                        'tags' => 'f-secure',
                         'content' => "\\f142"
                     ),
                     array(
-                    'class' => 'hi-favro',
+                        'class' => 'hi-favro',
+                        'tags' => 'favro',
                         'content' => "\\f143"
                     ),
                     array(
-                    'class' => 'hi-fedora',
+                        'class' => 'hi-fedora',
+                        'tags' => 'fedora',
                         'content' => "\\f144"
                     ),
                     array(
-                    'class' => 'hi-flutter',
+                        'class' => 'hi-flutter',
+                        'tags' => 'flutter',
                         'content' => "\\f145"
                     ),
                     array(
-                    'class' => 'hi-gitlab',
+                        'class' => 'hi-gitlab',
+                        'tags' => 'gitlab',
                         'content' => "\\f146"
                     ),
                     array(
-                    'class' => 'hi-gnu',
+                        'class' => 'hi-gnu',
+                        'tags' => 'gnu',
                         'content' => "\\f147"
                     ),
                     array(
-                    'class' => 'hi-gnusocial',
+                        'class' => 'hi-gnusocial',
+                        'tags' => 'gnusocial',
                         'content' => "\\f148"
                     ),
                     array(
-                    'class' => 'hi-googlehangoutschat',
+                        'class' => 'hi-googlehangoutschat',
+                        'tags' => 'googlehangoutschat',
                         'content' => "\\f149"
                     ),
                     array(
-                    'class' => 'hi-googlepay',
+                        'class' => 'hi-googlepay',
+                        'tags' => 'googlepay',
                         'content' => "\\f14a"
                     ),
                     array(
-                    'class' => 'hi-grafana',
+                        'class' => 'hi-grafana',
+                        'tags' => 'grafana',
                         'content' => "\\f14b"
                     ),
                     array(
-                    'class' => 'hi-hackaday',
+                        'class' => 'hi-hackaday',
+                        'tags' => 'hackaday',
                         'content' => "\\f14c"
                     ),
                     array(
-                    'class' => 'hi-hackster',
+                        'class' => 'hi-hackster',
+                        'tags' => 'hackster',
                         'content' => "\\f14d"
                     ),
                     array(
-                    'class' => 'hi-hootsuite',
+                        'class' => 'hi-hootsuite',
+                        'tags' => 'hootsuite',
                         'content' => "\\f14e"
                     ),
                     array(
-                    'class' => 'hi-hubspot',
+                        'class' => 'hi-hubspot',
+                        'tags' => 'hubspot',
                         'content' => "\\f14f"
                     ),
                     array(
-                    'class' => 'hi-iconjar',
+                        'class' => 'hi-iconjar',
+                        'tags' => 'iconjar',
                         'content' => "\\f150"
                     ),
                     array(
-                    'class' => 'hi-inkscape',
+                        'class' => 'hi-inkscape',
+                        'tags' => 'inkscape',
                         'content' => "\\f151"
                     ),
                     array(
-                    'class' => 'hi-intel',
+                        'class' => 'hi-intel',
+                        'tags' => 'intel',
                         'content' => "\\f152"
                     ),
                     array(
-                    'class' => 'hi-internetexplorer',
+                        'class' => 'hi-internetexplorer',
+                        'tags' => 'internetexplorer',
                         'content' => "\\f153"
                     ),
                     array(
-                    'class' => 'hi-invision',
+                        'class' => 'hi-invision',
+                        'tags' => 'invision',
                         'content' => "\\f154"
                     ),
                     array(
-                    'class' => 'hi-jabber',
+                        'class' => 'hi-jabber',
+                        'tags' => 'jabber',
                         'content' => "\\f155"
                     ),
                     array(
-                    'class' => 'hi-javascript',
+                        'class' => 'hi-javascript',
+                        'tags' => 'javascript',
                         'content' => "\\f156"
                     ),
                     array(
-                    'class' => 'hi-jenkins',
+                        'class' => 'hi-jenkins',
+                        'tags' => 'jenkins',
                         'content' => "\\f157"
                     ),
                     array(
-                    'class' => 'hi-kaios',
+                        'class' => 'hi-kaios',
+                        'tags' => 'kaios',
                         'content' => "\\f158"
                     ),
                     array(
-                    'class' => 'hi-keybase',
+                        'class' => 'hi-keybase',
+                        'tags' => 'keybase',
                         'content' => "\\f159"
                     ),
                     array(
-                    'class' => 'hi-kibana',
+                        'class' => 'hi-kibana',
+                        'tags' => 'kibana',
                         'content' => "\\f15a"
                     ),
                     array(
-                    'class' => 'hi-klout',
+                        'class' => 'hi-klout',
+                        'tags' => 'klout',
                         'content' => "\\f15b"
                     ),
                     array(
-                    'class' => 'hi-kotlin',
+                        'class' => 'hi-kotlin',
+                        'tags' => 'kotlin',
                         'content' => "\\f15c"
                     ),
                     array(
-                    'class' => 'hi-laravel',
+                        'class' => 'hi-laravel',
+                        'tags' => 'laravel',
                         'content' => "\\f15d"
                     ),
                     array(
-                    'class' => 'hi-laravelhorizon',
+                        'class' => 'hi-laravelhorizon',
+                        'tags' => 'laravelhorizon',
                         'content' => "\\f15e"
                     ),
                     array(
-                    'class' => 'hi-letterboxd',
+                        'class' => 'hi-letterboxd',
+                        'tags' => 'letterboxd',
                         'content' => "\\f15f"
                     ),
                     array(
-                    'class' => 'hi-line',
+                        'class' => 'hi-line',
+                        'tags' => 'line',
                         'content' => "\\f160"
                     ),
                     array(
-                    'class' => 'hi-linewebtoon',
+                        'class' => 'hi-linewebtoon',
+                        'tags' => 'linewebtoon',
                         'content' => "\\f161"
                     ),
                     array(
-                    'class' => 'hi-linuxmint',
+                        'class' => 'hi-linuxmint',
+                        'tags' => 'linuxmint',
                         'content' => "\\f162"
                     ),
                     array(
-                    'class' => 'hi-magento',
+                        'class' => 'hi-magento',
+                        'tags' => 'magento',
                         'content' => "\\f163"
                     ),
                     array(
-                    'class' => 'hi-magisk',
+                        'class' => 'hi-magisk',
+                        'tags' => 'magisk',
                         'content' => "\\f164"
                     ),
                     array(
-                    'class' => 'hi-mastodon',
+                        'class' => 'hi-mastodon',
+                        'tags' => 'mastodon',
                         'content' => "\\f165"
                     ),
                     array(
-                    'class' => 'hi-mathworks',
+                        'class' => 'hi-mathworks',
+                        'tags' => 'mathworks',
                         'content' => "\\f166"
                     ),
                     array(
-                    'class' => 'hi-mediafire',
+                        'class' => 'hi-mediafire',
+                        'tags' => 'mediafire',
                         'content' => "\\f167"
                     ),
                     array(
-                    'class' => 'hi-mixcloud',
+                        'class' => 'hi-mixcloud',
+                        'tags' => 'mixcloud',
                         'content' => "\\f168"
                     ),
                     array(
-                    'class' => 'hi-monogram',
+                        'class' => 'hi-monogram',
+                        'tags' => 'monogram',
                         'content' => "\\f169"
                     ),
                     array(
-                    'class' => 'hi-mysql',
+                        'class' => 'hi-mysql',
+                        'tags' => 'mysql',
                         'content' => "\\f16a"
                     ),
                     array(
-                    'class' => 'hi-netflix',
+                        'class' => 'hi-netflix',
+                        'tags' => 'netflix',
                         'content' => "\\f16b"
                     ),
                     array(
-                    'class' => 'hi-odnoklassniki',
+                        'class' => 'hi-odnoklassniki',
+                        'tags' => 'odnoklassniki',
                         'content' => "\\f16c"
                     ),
                     array(
-                    'class' => 'hi-opensuse',
+                        'class' => 'hi-opensuse',
+                        'tags' => 'opensuse',
                         'content' => "\\f16d"
                     ),
                     array(
-                    'class' => 'hi-periscope',
+                        'class' => 'hi-periscope',
+                        'tags' => 'periscope',
                         'content' => "\\f16e"
                     ),
                     array(
-                    'class' => 'hi-php',
+                        'class' => 'hi-php',
+                        'tags' => 'php',
                         'content' => "\\f16f"
                     ),
                     array(
-                    'class' => 'hi-plangrid',
+                        'class' => 'hi-plangrid',
+                        'tags' => 'plangrid',
                         'content' => "\\f170"
                     ),
                     array(
-                    'class' => 'hi-player-dot-me',
+                        'class' => 'hi-player-dot-me',
+                        'tags' => 'player-dot-me',
                         'content' => "\\f171"
                     ),
                     array(
-                    'class' => 'hi-plurk',
+                        'class' => 'hi-plurk',
+                        'tags' => 'plurk',
                         'content' => "\\f172"
                     ),
                     array(
-                    'class' => 'hi-powershell',
+                        'class' => 'hi-powershell',
+                        'tags' => 'powershell',
                         'content' => "\\f173"
                     ),
                     array(
-                    'class' => 'hi-probot',
+                        'class' => 'hi-probot',
+                        'tags' => 'probot',
                         'content' => "\\f174"
                     ),
                     array(
-                    'class' => 'hi-processwire',
+                        'class' => 'hi-processwire',
+                        'tags' => 'processwire',
                         'content' => "\\f175"
                     ),
                     array(
-                    'class' => 'hi-producthunt',
+                        'class' => 'hi-producthunt',
+                        'tags' => 'producthunt',
                         'content' => "\\f176"
                     ),
                     array(
-                    'class' => 'hi-python',
+                        'class' => 'hi-python',
+                        'tags' => 'python',
                         'content' => "\\f177"
                     ),
                     array(
-                    'class' => 'hi-reason',
+                        'class' => 'hi-reason',
+                        'tags' => 'reason',
                         'content' => "\\f178"
                     ),
                     array(
-                    'class' => 'hi-redbubble',
+                        'class' => 'hi-redbubble',
+                        'tags' => 'redbubble',
                         'content' => "\\f179"
                     ),
                     array(
-                    'class' => 'hi-redhat',
+                        'class' => 'hi-redhat',
+                        'tags' => 'redhat',
                         'content' => "\\f17a"
                     ),
                     array(
-                    'class' => 'hi-redux',
+                        'class' => 'hi-redux',
+                        'tags' => 'redux',
                         'content' => "\\f17b"
                     ),
                     array(
-                    'class' => 'hi-riot',
+                        'class' => 'hi-riot',
+                        'tags' => 'riot',
                         'content' => "\\f17c"
                     ),
                     array(
-                    'class' => 'hi-ruby',
+                        'class' => 'hi-ruby',
+                        'tags' => 'ruby',
                         'content' => "\\f17d"
                     ),
                     array(
-                    'class' => 'hi-runkeeper',
+                        'class' => 'hi-runkeeper',
+                        'tags' => 'runkeeper',
                         'content' => "\\f17e"
                     ),
                     array(
-                    'class' => 'hi-rust',
+                        'class' => 'hi-rust',
+                        'tags' => 'rust',
                         'content' => "\\f17f"
                     ),
                     array(
-                    'class' => 'hi-salesforce',
+                        'class' => 'hi-salesforce',
+                        'tags' => 'salesforce',
                         'content' => "\\f180"
                     ),
                     array(
-                    'class' => 'hi-samsung',
+                        'class' => 'hi-samsung',
+                        'tags' => 'samsung',
                         'content' => "\\f181"
                     ),
                     array(
-                    'class' => 'hi-samsungpay',
+                        'class' => 'hi-samsungpay',
+                        'tags' => 'samsungpay',
                         'content' => "\\f182"
                     ),
                     array(
-                    'class' => 'hi-sass',
+                        'class' => 'hi-sass',
+                        'tags' => 'sass',
                         'content' => "\\f183"
                     ),
                     array(
-                    'class' => 'hi-sega',
+                        'class' => 'hi-sega',
+                        'tags' => 'sega',
                         'content' => "\\f184"
                     ),
                     array(
-                    'class' => 'hi-shazam',
+                        'class' => 'hi-shazam',
+                        'tags' => 'shazam',
                         'content' => "\\f185"
                     ),
                     array(
-                    'class' => 'hi-shopify',
+                        'class' => 'hi-shopify',
+                        'tags' => 'shopify',
                         'content' => "\\f186"
                     ),
                     array(
-                    'class' => 'hi-sinaweibo',
+                        'class' => 'hi-sinaweibo',
+                        'tags' => 'sinaweibo',
                         'content' => "\\f187"
                     ),
                     array(
-                    'class' => 'hi-skyliner',
+                        'class' => 'hi-skyliner',
+                        'tags' => 'skyliner',
                         'content' => "\\f188"
                     ),
                     array(
-                    'class' => 'hi-sourceforge',
+                        'class' => 'hi-sourceforge',
+                        'tags' => 'sourceforge',
                         'content' => "\\f189"
                     ),
                     array(
-                    'class' => 'hi-spotify',
+                        'class' => 'hi-spotify',
+                        'tags' => 'spotify',
                         'content' => "\\f18a"
                     ),
                     array(
-                    'class' => 'hi-staticman',
+                        'class' => 'hi-staticman',
+                        'tags' => 'staticman',
                         'content' => "\\f18b"
                     ),
                     array(
-                    'class' => 'hi-steemit',
+                        'class' => 'hi-steemit',
+                        'tags' => 'steemit',
                         'content' => "\\f18c"
                     ),
                     array(
-                    'class' => 'hi-stylus',
+                        'class' => 'hi-stylus',
+                        'tags' => 'stylus',
                         'content' => "\\f18d"
                     ),
                     array(
-                    'class' => 'hi-swarm',
+                        'class' => 'hi-swarm',
+                        'tags' => 'swarm',
                         'content' => "\\f18e"
                     ),
                     array(
-                    'class' => 'hi-swift',
+                        'class' => 'hi-swift',
+                        'tags' => 'swift',
                         'content' => "\\f18f"
                     ),
                     array(
-                    'class' => 'hi-symfony',
+                        'class' => 'hi-symfony',
+                        'tags' => 'symfony',
                         'content' => "\\f190"
                     ),
                     array(
-                    'class' => 'hi-teamviewer',
+                        'class' => 'hi-teamviewer',
+                        'tags' => 'teamviewer',
                         'content' => "\\f191"
                     ),
                     array(
-                    'class' => 'hi-ted',
+                        'class' => 'hi-ted',
+                        'tags' => 'ted',
                         'content' => "\\f192"
                     ),
                     array(
-                    'class' => 'hi-teespring',
+                        'class' => 'hi-teespring',
+                        'tags' => 'teespring',
                         'content' => "\\f193"
                     ),
                     array(
-                    'class' => 'hi-tencentqq',
+                        'class' => 'hi-tencentqq',
+                        'tags' => 'tencentqq',
                         'content' => "\\f194"
                     ),
                     array(
-                    'class' => 'hi-tiktok',
+                        'class' => 'hi-tiktok',
+                        'tags' => 'tiktok',
                         'content' => "\\f195"
                     ),
                     array(
-                    'class' => 'hi-todoist',
+                        'class' => 'hi-todoist',
+                        'tags' => 'todoist',
                         'content' => "\\f196"
                     ),
                     array(
-                    'class' => 'hi-toggl',
+                        'class' => 'hi-toggl',
+                        'tags' => 'toggl',
                         'content' => "\\f197"
                     ),
                     array(
-                    'class' => 'hi-tor',
+                        'class' => 'hi-tor',
+                        'tags' => 'tor',
                         'content' => "\\f198"
                     ),
                     array(
-                    'class' => 'hi-treehouse',
+                        'class' => 'hi-treehouse',
+                        'tags' => 'treehouse',
                         'content' => "\\f199"
                     ),
                     array(
-                    'class' => 'hi-twilio',
+                        'class' => 'hi-twilio',
+                        'tags' => 'twilio',
                         'content' => "\\f19a"
                     ),
                     array(
-                    'class' => 'hi-twitch',
+                        'class' => 'hi-twitch',
+                        'tags' => 'twitch',
                         'content' => "\\f19b"
                     ),
                     array(
-                    'class' => 'hi-typescript',
+                        'class' => 'hi-typescript',
+                        'tags' => 'typescript',
                         'content' => "\\f19c"
                     ),
                     array(
-                    'class' => 'hi-typo3',
+                        'class' => 'hi-typo3',
+                        'tags' => 'typo3',
                         'content' => "\\f19d"
                     ),
                     array(
-                    'class' => 'hi-udacity',
+                        'class' => 'hi-udacity',
+                        'tags' => 'udacity',
                         'content' => "\\f19e"
                     ),
                     array(
-                    'class' => 'hi-udemy',
+                        'class' => 'hi-udemy',
+                        'tags' => 'udemy',
                         'content' => "\\f19f"
                     ),
                     array(
-                    'class' => 'hi-add-circle',
+                        'class' => 'hi-add-circle',
+                        'tags' => 'add-circle',
                         'content' => "\\e900"
                     ),
                     array(
-                    'class' => 'hi-add-file',
+                        'class' => 'hi-add-file',
+                        'tags' => 'add-file',
                         'content' => "\\e901"
                     ),
                     array(
-                    'class' => 'hi-add-folder',
+                        'class' => 'hi-add-folder',
+                        'tags' => 'add-folder',
                         'content' => "\\e902"
                     ),
                     array(
-                    'class' => 'hi-alarm',
+                        'class' => 'hi-alarm',
+                        'tags' => 'alarm',
                         'content' => "\\e903"
                     ),
                     array(
-                    'class' => 'hi-align-center',
+                        'class' => 'hi-align-center',
+                        'tags' => 'align-center',
                         'content' => "\\e904"
                     ),
                     array(
-                    'class' => 'hi-align-justify',
+                        'class' => 'hi-align-justify',
+                        'tags' => 'align-justify',
                         'content' => "\\e905"
                     ),
                     array(
-                    'class' => 'hi-align-left',
+                        'class' => 'hi-align-left',
+                        'tags' => 'align-left',
                         'content' => "\\e906"
                     ),
                     array(
-                    'class' => 'hi-align-right',
+                        'class' => 'hi-align-right',
+                        'tags' => 'align-right',
                         'content' => "\\e907"
                     ),
                     array(
-                    'class' => 'hi-arrow-bottom',
+                        'class' => 'hi-arrow-bottom',
+                        'tags' => 'arrow-bottom',
                         'content' => "\\e908"
                     ),
                     array(
-                    'class' => 'hi-arrow-circle-bottom',
+                        'class' => 'hi-arrow-circle-bottom',
+                        'tags' => 'arrow-circle-bottom',
                         'content' => "\\e909"
                     ),
                     array(
-                    'class' => 'hi-arrow-circle-left',
+                        'class' => 'hi-arrow-circle-left',
+                        'tags' => 'arrow-circle-left',
                         'content' => "\\e90a"
                     ),
                     array(
-                    'class' => 'hi-arrow-circle-right',
+                        'class' => 'hi-arrow-circle-right',
+                        'tags' => 'arrow-circle-right',
                         'content' => "\\e90b"
                     ),
                     array(
-                    'class' => 'hi-arrow-circle-top',
+                        'class' => 'hi-arrow-circle-top',
+                        'tags' => 'arrow-circle-top',
                         'content' => "\\e90c"
                     ),
                     array(
-                    'class' => 'hi-arrow-left',
+                        'class' => 'hi-arrow-left',
+                        'tags' => 'arrow-left',
                         'content' => "\\e90d"
                     ),
                     array(
-                    'class' => 'hi-arrow-right',
+                        'class' => 'hi-arrow-right',
+                        'tags' => 'arrow-right',
                         'content' => "\\e90e"
                     ),
                     array(
-                    'class' => 'hi-arrow-top',
+                        'class' => 'hi-arrow-top',
+                        'tags' => 'arrow-top',
                         'content' => "\\e90f"
                     ),
                     array(
-                    'class' => 'hi-attachment',
+                        'class' => 'hi-attachment',
+                        'tags' => 'attachment',
                         'content' => "\\e910"
                     ),
                     array(
-                    'class' => 'hi-ban',
+                        'class' => 'hi-ban',
+                        'tags' => 'ban',
                         'content' => "\\e911"
                     ),
                     array(
-                    'class' => 'hi-bell',
+                        'class' => 'hi-bell',
+                        'tags' => 'bell',
                         'content' => "\\e912"
                     ),
                     array(
-                    'class' => 'hi-briefcase',
+                        'class' => 'hi-briefcase',
+                        'tags' => 'briefcase',
                         'content' => "\\e913"
                     ),
                     array(
-                    'class' => 'hi-broken-link',
+                        'class' => 'hi-broken-link',
+                        'tags' => 'broken-link',
                         'content' => "\\e914"
                     ),
                     array(
-                    'class' => 'hi-bullet-list',
+                        'class' => 'hi-bullet-list',
+                        'tags' => 'bullet-list',
                         'content' => "\\e915"
                     ),
                     array(
-                    'class' => 'hi-calendar',
+                        'class' => 'hi-calendar',
+                        'tags' => 'calendar',
                         'content' => "\\e916"
                     ),
                     array(
-                    'class' => 'hi-camera',
+                        'class' => 'hi-camera',
+                        'tags' => 'camera',
                         'content' => "\\e917"
                     ),
                     array(
-                    'class' => 'hi-cart',
+                        'class' => 'hi-cart',
+                        'tags' => 'cart',
                         'content' => "\\e918"
                     ),
                     array(
-                    'class' => 'hi-chart',
+                        'class' => 'hi-chart',
+                        'tags' => 'chart',
                         'content' => "\\e919"
                     ),
                     array(
-                    'class' => 'hi-chat',
+                        'class' => 'hi-chat',
+                        'tags' => 'chat',
                         'content' => "\\e91a"
                     ),
                     array(
-                    'class' => 'hi-check-circle',
+                        'class' => 'hi-check-circle',
+                        'tags' => 'check-circle',
                         'content' => "\\e91b"
                     ),
                     array(
-                    'class' => 'hi-check',
+                        'class' => 'hi-check',
+                        'tags' => 'check',
                         'content' => "\\e91c"
                     ),
                     array(
-                    'class' => 'hi-checkbox',
+                        'class' => 'hi-checkbox',
+                        'tags' => 'checkbox',
                         'content' => "\\e91d"
                     ),
                     array(
-                    'class' => 'hi-chevron-bottom',
+                        'class' => 'hi-chevron-bottom',
+                        'tags' => 'chevron-bottom',
                         'content' => "\\e91e"
                     ),
                     array(
-                    'class' => 'hi-chevron-left',
+                        'class' => 'hi-chevron-left',
+                        'tags' => 'chevron-left',
                         'content' => "\\e91f"
                     ),
                     array(
-                    'class' => 'hi-chevron-right',
+                        'class' => 'hi-chevron-right',
+                        'tags' => 'chevron-right',
                         'content' => "\\e920"
                     ),
                     array(
-                    'class' => 'hi-chevron-top',
+                        'class' => 'hi-chevron-top',
+                        'tags' => 'chevron-top',
                         'content' => "\\e921"
                     ),
                     array(
-                    'class' => 'hi-circle',
+                        'class' => 'hi-circle',
+                        'tags' => 'circle',
                         'content' => "\\e922"
                     ),
                     array(
-                    'class' => 'hi-clock',
+                        'class' => 'hi-clock',
+                        'tags' => 'clock',
                         'content' => "\\e923"
                     ),
                     array(
-                    'class' => 'hi-cog',
+                        'class' => 'hi-cog',
+                        'tags' => 'cog',
                         'content' => "\\e924"
                     ),
                     array(
-                    'class' => 'hi-credit-card',
+                        'class' => 'hi-credit-card',
+                        'tags' => 'credit-card',
                         'content' => "\\e925"
                     ),
                     array(
-                    'class' => 'hi-cross-circle',
+                        'class' => 'hi-cross-circle',
+                        'tags' => 'cross-circle',
                         'content' => "\\e926"
                     ),
                     array(
-                    'class' => 'hi-cross',
+                        'class' => 'hi-cross',
+                        'tags' => 'cross',
                         'content' => "\\e927"
                     ),
                     array(
-                    'class' => 'hi-date',
+                        'class' => 'hi-date',
+                        'tags' => 'date',
                         'content' => "\\e928"
                     ),
                     array(
-                    'class' => 'hi-delete-file',
+                        'class' => 'hi-delete-file',
+                        'tags' => 'delete-file',
                         'content' => "\\e929"
                     ),
                     array(
-                    'class' => 'hi-dislike',
+                        'class' => 'hi-dislike',
+                        'tags' => 'dislike',
                         'content' => "\\e92a"
                     ),
                     array(
-                    'class' => 'hi-document',
+                        'class' => 'hi-document',
+                        'tags' => 'document',
                         'content' => "\\e92b"
                     ),
                     array(
-                    'class' => 'hi-download-box',
+                        'class' => 'hi-download-box',
+                        'tags' => 'download-box',
                         'content' => "\\e92c"
                     ),
                     array(
-                    'class' => 'hi-download-cloud',
+                        'class' => 'hi-download-cloud',
+                        'tags' => 'download-cloud',
                         'content' => "\\e92d"
                     ),
                     array(
-                    'class' => 'hi-download',
+                        'class' => 'hi-download',
+                        'tags' => 'download',
                         'content' => "\\e92e"
                     ),
                     array(
-                    'class' => 'hi-empty-bag',
+                        'class' => 'hi-empty-bag',
+                        'tags' => 'empty-bag',
                         'content' => "\\e92f"
                     ),
                     array(
-                    'class' => 'hi-envelope',
+                        'class' => 'hi-envelope',
+                        'tags' => 'envelope',
                         'content' => "\\e930"
                     ),
                     array(
-                    'class' => 'hi-export',
+                        'class' => 'hi-export',
+                        'tags' => 'export',
                         'content' => "\\e931"
                     ),
                     array(
-                    'class' => 'hi-eye',
+                        'class' => 'hi-eye',
+                        'tags' => 'eye',
                         'content' => "\\e932"
                     ),
                     array(
-                    'class' => 'hi-fat-bag',
+                        'class' => 'hi-fat-bag',
+                        'tags' => 'fat-bag',
                         'content' => "\\e933"
                     ),
                     array(
-                    'class' => 'hi-file',
+                        'class' => 'hi-file',
+                        'tags' => 'file',
                         'content' => "\\e934"
                     ),
                     array(
-                    'class' => 'hi-fill-bag',
+                        'class' => 'hi-fill-bag',
+                        'tags' => 'fill-bag',
                         'content' => "\\e935"
                     ),
                     array(
-                    'class' => 'hi-fit-horizontal',
+                        'class' => 'hi-fit-horizontal',
+                        'tags' => 'fit-horizontal',
                         'content' => "\\e936"
                     ),
                     array(
-                    'class' => 'hi-fit-to-screen',
+                        'class' => 'hi-fit-to-screen',
+                        'tags' => 'fit-to-screen',
                         'content' => "\\e937"
                     ),
                     array(
-                    'class' => 'hi-fit-vertical',
+                        'class' => 'hi-fit-vertical',
+                        'tags' => 'fit-vertical',
                         'content' => "\\e938"
                     ),
                     array(
-                    'class' => 'hi-flag',
+                        'class' => 'hi-flag',
+                        'tags' => 'flag',
                         'content' => "\\e939"
                     ),
                     array(
-                    'class' => 'hi-folder',
+                        'class' => 'hi-folder',
+                        'tags' => 'folder',
                         'content' => "\\e93a"
                     ),
                     array(
-                    'class' => 'hi-funnel',
+                        'class' => 'hi-funnel',
+                        'tags' => 'funnel',
                         'content' => "\\e93b"
                     ),
                     array(
-                    'class' => 'hi-game',
+                        'class' => 'hi-game',
+                        'tags' => 'game',
                         'content' => "\\e93c"
                     ),
                     array(
-                    'class' => 'hi-hand-index',
+                        'class' => 'hi-hand-index',
+                        'tags' => 'hand-index',
                         'content' => "\\e93d"
                     ),
                     array(
-                    'class' => 'hi-happy',
+                        'class' => 'hi-happy',
+                        'tags' => 'happy',
                         'content' => "\\e93e"
                     ),
                     array(
-                    'class' => 'hi-heart-o',
+                        'class' => 'hi-heart-o',
+                        'tags' => 'heart-o',
                         'content' => "\\e93f"
                     ),
                     array(
-                    'class' => 'hi-hide',
+                        'class' => 'hi-hide',
+                        'tags' => 'hide',
                         'content' => "\\e940"
                     ),
                     array(
-                    'class' => 'hi-id-card-vertical',
+                        'class' => 'hi-id-card-vertical',
+                        'tags' => 'id-card-vertical',
                         'content' => "\\e941"
                     ),
                     array(
-                    'class' => 'hi-id-card',
+                        'class' => 'hi-id-card',
+                        'tags' => 'id-card',
                         'content' => "\\e942"
                     ),
                     array(
-                    'class' => 'hi-image',
+                        'class' => 'hi-image',
+                        'tags' => 'image',
                         'content' => "\\e943"
                     ),
                     array(
-                    'class' => 'hi-info-square',
+                        'class' => 'hi-info-square',
+                        'tags' => 'info-square',
                         'content' => "\\e944"
                     ),
                     array(
-                    'class' => 'hi-info',
+                        'class' => 'hi-info',
+                        'tags' => 'info',
                         'content' => "\\e945"
                     ),
                     array(
-                    'class' => 'hi-like',
+                        'class' => 'hi-like',
+                        'tags' => 'like',
                         'content' => "\\e946"
                     ),
                     array(
-                    'class' => 'hi-link',
+                        'class' => 'hi-link',
+                        'tags' => 'link',
                         'content' => "\\e947"
                     ),
                     array(
-                    'class' => 'hi-lock',
+                        'class' => 'hi-lock',
+                        'tags' => 'lock',
                         'content' => "\\e948"
                     ),
                     array(
-                    'class' => 'hi-logout',
+                        'class' => 'hi-logout',
+                        'tags' => 'logout',
                         'content' => "\\e949"
                     ),
                     array(
-                    'class' => 'hi-marker-o',
+                        'class' => 'hi-marker-o',
+                        'tags' => 'marker-o',
                         'content' => "\\e94a"
                     ),
                     array(
-                    'class' => 'hi-maximize',
+                        'class' => 'hi-maximize',
+                        'tags' => 'maximize',
                         'content' => "\\e94b"
                     ),
                     array(
-                    'class' => 'hi-media-file',
+                        'class' => 'hi-media-file',
+                        'tags' => 'media-file',
                         'content' => "\\e94c"
                     ),
                     array(
-                    'class' => 'hi-menu',
+                        'class' => 'hi-menu',
+                        'tags' => 'menu',
                         'content' => "\\e94d"
                     ),
                     array(
-                    'class' => 'hi-mic',
+                        'class' => 'hi-mic',
+                        'tags' => 'mic',
                         'content' => "\\e94e"
                     ),
                     array(
-                    'class' => 'hi-minimize',
+                        'class' => 'hi-minimize',
+                        'tags' => 'minimize',
                         'content' => "\\e94f"
                     ),
                     array(
-                    'class' => 'hi-minus-circle',
+                        'class' => 'hi-minus-circle',
+                        'tags' => 'minus-circle',
                         'content' => "\\e950"
                     ),
                     array(
-                    'class' => 'hi-monitor',
+                        'class' => 'hi-monitor',
+                        'tags' => 'monitor',
                         'content' => "\\e951"
                     ),
                     array(
-                    'class' => 'hi-mute',
+                        'class' => 'hi-mute',
+                        'tags' => 'mute',
                         'content' => "\\e952"
                     ),
                     array(
-                    'class' => 'hi-neutral',
+                        'class' => 'hi-neutral',
+                        'tags' => 'neutral',
                         'content' => "\\e953"
                     ),
                     array(
-                    'class' => 'hi-next',
+                        'class' => 'hi-next',
+                        'tags' => 'next',
                         'content' => "\\e954"
                     ),
                     array(
-                    'class' => 'hi-numbered-list',
+                        'class' => 'hi-numbered-list',
+                        'tags' => 'numbered-list',
                         'content' => "\\e955"
                     ),
                     array(
-                    'class' => 'hi-paint-bucket',
+                        'class' => 'hi-paint-bucket',
+                        'tags' => 'paint-bucket',
                         'content' => "\\e956"
                     ),
                     array(
-                    'class' => 'hi-paper-plane',
+                        'class' => 'hi-paper-plane',
+                        'tags' => 'paper-plane',
                         'content' => "\\e957"
                     ),
                     array(
-                    'class' => 'hi-paper-tag',
+                        'class' => 'hi-paper-tag',
+                        'tags' => 'paper-tag',
                         'content' => "\\e958"
                     ),
                     array(
-                    'class' => 'hi-paste',
+                        'class' => 'hi-paste',
+                        'tags' => 'paste',
                         'content' => "\\e959"
                     ),
                     array(
-                    'class' => 'hi-pencil',
+                        'class' => 'hi-pencil',
+                        'tags' => 'pencil',
                         'content' => "\\e95a"
                     ),
                     array(
-                    'class' => 'hi-pie-chart',
+                        'class' => 'hi-pie-chart',
+                        'tags' => 'pie-chart',
                         'content' => "\\e95b"
                     ),
                     array(
-                    'class' => 'hi-pin',
+                        'class' => 'hi-pin',
+                        'tags' => 'pin',
                         'content' => "\\e95c"
                     ),
                     array(
-                    'class' => 'hi-pinned',
+                        'class' => 'hi-pinned',
+                        'tags' => 'pinned',
                         'content' => "\\e95d"
                     ),
                     array(
-                    'class' => 'hi-power',
+                        'class' => 'hi-power',
+                        'tags' => 'power',
                         'content' => "\\e95e"
                     ),
                     array(
-                    'class' => 'hi-presentation',
+                        'class' => 'hi-presentation',
+                        'tags' => 'presentation',
                         'content' => "\\e95f"
                     ),
                     array(
-                    'class' => 'hi-previous',
+                        'class' => 'hi-previous',
+                        'tags' => 'previous',
                         'content' => "\\e960"
                     ),
                     array(
-                    'class' => 'hi-print',
+                        'class' => 'hi-print',
+                        'tags' => 'print',
                         'content' => "\\e961"
                     ),
                     array(
-                    'class' => 'hi-question-circle-big',
+                        'class' => 'hi-question-circle-big',
+                        'tags' => 'question-circle-big',
                         'content' => "\\e962"
                     ),
                     array(
-                    'class' => 'hi-question-circle',
+                        'class' => 'hi-question-circle',
+                        'tags' => 'question-circle',
                         'content' => "\\e963"
                     ),
                     array(
-                    'class' => 'hi-quotes',
+                        'class' => 'hi-quotes',
+                        'tags' => 'quotes',
                         'content' => "\\e964"
                     ),
                     array(
-                    'class' => 'hi-redo',
+                        'class' => 'hi-redo',
+                        'tags' => 'redo',
                         'content' => "\\e965"
                     ),
                     array(
-                    'class' => 'hi-refresh',
+                        'class' => 'hi-refresh',
+                        'tags' => 'refresh',
                         'content' => "\\e966"
                     ),
                     array(
-                    'class' => 'hi-reply',
+                        'class' => 'hi-reply',
+                        'tags' => 'reply',
                         'content' => "\\e967"
                     ),
                     array(
-                    'class' => 'hi-sad',
+                        'class' => 'hi-sad',
+                        'tags' => 'sad',
                         'content' => "\\e968"
                     ),
                     array(
-                    'class' => 'hi-save-file',
+                        'class' => 'hi-save-file',
+                        'tags' => 'save-file',
                         'content' => "\\e969"
                     ),
                     array(
-                    'class' => 'hi-search',
+                        'class' => 'hi-search',
+                        'tags' => 'search',
                         'content' => "\\e96a"
                     ),
                     array(
-                    'class' => 'hi-settings',
+                        'class' => 'hi-settings',
+                        'tags' => 'settings',
                         'content' => "\\e96b"
                     ),
                     array(
-                    'class' => 'hi-share',
+                        'class' => 'hi-share',
+                        'tags' => 'share',
                         'content' => "\\e96c"
                     ),
                     array(
-                    'class' => 'hi-speaker',
+                        'class' => 'hi-speaker',
+                        'tags' => 'speaker',
                         'content' => "\\e96d"
                     ),
                     array(
-                    'class' => 'hi-speech-bubble',
+                        'class' => 'hi-speech-bubble',
+                        'tags' => 'speech-bubble',
                         'content' => "\\e96e"
                     ),
                     array(
-                    'class' => 'hi-stack',
+                        'class' => 'hi-stack',
+                        'tags' => 'stack',
                         'content' => "\\e96f"
                     ),
                     array(
-                    'class' => 'hi-star-o',
+                        'class' => 'hi-star-o',
+                        'tags' => 'star-o',
                         'content' => "\\e970"
                     ),
                     array(
-                    'class' => 'hi-star',
+                        'class' => 'hi-star',
+                        'tags' => 'star',
                         'content' => "\\e971"
                     ),
                     array(
-                    'class' => 'hi-sun',
+                        'class' => 'hi-sun',
+                        'tags' => 'sun',
                         'content' => "\\e972"
                     ),
                     array(
-                    'class' => 'hi-switch-off',
+                        'class' => 'hi-switch-off',
+                        'tags' => 'switch-off',
                         'content' => "\\e973"
                     ),
                     array(
-                    'class' => 'hi-switch-on',
+                        'class' => 'hi-switch-on',
+                        'tags' => 'switch-on',
                         'content' => "\\e974"
                     ),
                     array(
-                    'class' => 'hi-tag-o',
+                        'class' => 'hi-tag-o',
+                        'tags' => 'tag-o',
                         'content' => "\\e975"
                     ),
                     array(
-                    'class' => 'hi-time',
+                        'class' => 'hi-time',
+                        'tags' => 'time',
                         'content' => "\\e976"
                     ),
                     array(
-                    'class' => 'hi-trash',
+                        'class' => 'hi-trash',
+                        'tags' => 'trash',
                         'content' => "\\e977"
                     ),
                     array(
-                    'class' => 'hi-turn-left',
+                        'class' => 'hi-turn-left',
+                        'tags' => 'turn-left',
                         'content' => "\\e978"
                     ),
                     array(
-                    'class' => 'hi-turn-right',
+                        'class' => 'hi-turn-right',
+                        'tags' => 'turn-right',
                         'content' => "\\e979"
                     ),
                     array(
-                    'class' => 'hi-undo',
+                        'class' => 'hi-undo',
+                        'tags' => 'undo',
                         'content' => "\\e97a"
                     ),
                     array(
-                    'class' => 'hi-upload-cloud',
+                        'class' => 'hi-upload-cloud',
+                        'tags' => 'upload-cloud',
                         'content' => "\\e97b"
                     ),
                     array(
-                    'class' => 'hi-upload',
+                        'class' => 'hi-upload',
+                        'tags' => 'upload',
                         'content' => "\\e97c"
                     ),
                     array(
-                    'class' => 'hi-user',
+                        'class' => 'hi-user',
+                        'tags' => 'user',
                         'content' => "\\e97d"
                     ),
                     array(
-                    'class' => 'hi-users',
+                        'class' => 'hi-users',
+                        'tags' => 'users',
                         'content' => "\\e97e"
                     ),
                     array(
-                    'class' => 'hi-video-camera',
+                        'class' => 'hi-video-camera',
+                        'tags' => 'video-camera',
                         'content' => "\\e97f"
                     ),
                     array(
-                    'class' => 'hi-volume-down',
+                        'class' => 'hi-volume-down',
+                        'tags' => 'volume-down',
                         'content' => "\\e980"
                     ),
                     array(
-                    'class' => 'hi-volume-up',
+                        'class' => 'hi-volume-up',
+                        'tags' => 'volume-up',
                         'content' => "\\e981"
                     ),
                     array(
-                    'class' => 'hi-warning-o',
+                        'class' => 'hi-warning-o',
+                        'tags' => 'warning-o',
                         'content' => "\\e982"
                     ),
                     array(
-                    'class' => 'hi-warning',
+                        'class' => 'hi-warning',
+                        'tags' => 'warning',
                         'content' => "\\e983"
                     ),
                     array(
-                    'class' => 'hi-zoom-in',
+                        'class' => 'hi-zoom-in',
+                        'tags' => 'zoom-in',
                         'content' => "\\e984"
                     ),
                     array(
-                    'class' => 'hi-zoom-out',
+                        'class' => 'hi-zoom-out',
+                        'tags' => 'zoom-out',
                         'content' => "\\e985"
                     )
                 );
                 foreach ($haticons as $key => $value) {
                     ?>
-                    <div class="haticons-box" tags="<?php echo $value['class'];?>">
+                    <div class="haticons-box" tags="<?php echo $value['tags'];?>">
                         <i class="<?php echo $value['class'];?>"></i>
                         <p class="haticons-data">class = <span class="select-all"><?php echo $value['class'];?></span><br />css-content = <span class="select-all">"<?php echo $value['content'];?>"</span></p>
                     </div>
