@@ -1,6 +1,8 @@
+<?php
+    define('VERSION', '1.2.1');
+?>
 <!DOCTYPE html>
 <html>
-
 <head>
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -16,7 +18,7 @@
         gtag('js', new Date());
         gtag('config', 'UA-119943796-1');
     </script>
-    <link rel="stylesheet" type="text/css" media="all" href="/assets/css/style.css" />
+    <link rel="stylesheet" type="text/css" media="all" href="/assets/css/style.css?<?php echo VERSION;?>" />
 </head>
 
 <body>
@@ -29,7 +31,7 @@
         <button class="cheatsheet">Cheatsheet</button>
         <h2 class="tac">CDN</h2>
         <div class="cdn">https://cdn.haticons.com/css/haticons.css</div>
-        <p class="version">Version - 1.2.0</p>
+        <p class="version">Version - <?php echo VERSION;?></p>
     </div>
     <div class="modal cheatsheet-modal">
         <button class="close"></button>
