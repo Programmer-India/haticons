@@ -112,11 +112,11 @@
                         'content' => "\\e911"
                     ),
                     array(
-                        'class' => 'hi-bell1',
+                        'class' => 'hi-bell-outline',
                         'content' => "\\e912"
                     ),
                     array(
-                        'class' => 'hi-briefcase1',
+                        'class' => 'hi-briefcase-outline',
                         'content' => "\\e913"
                     ),
                     array(
@@ -184,7 +184,7 @@
                         'content' => "\\e923"
                     ),
                     array(
-                        'class' => 'hi-cog1',
+                        'class' => 'hi-cog-outline',
                         'content' => "\\e924"
                     ),
                     array(
@@ -608,10 +608,6 @@
                         'content' => "\\f006"
                     ),
                     array(
-                        'class' => 'hi-android1',
-                        'content' => "\\f007"
-                    ),
-                    array(
                         'class' => 'hi-apple',
                         'content' => "\\f008"
                     ),
@@ -648,16 +644,8 @@
                         'content' => "\\f010"
                     ),
                     array(
-                        'class' => 'hi-blog1',
-                        'content' => "\\f011"
-                    ),
-                    array(
                         'class' => 'hi-cat-paw',
                         'content' => "\\f012"
-                    ),
-                    array(
-                        'class' => 'hi-chrome1',
-                        'content' => "\\f013"
                     ),
                     array(
                         'class' => 'hi-coop',
@@ -678,10 +666,6 @@
                     array(
                         'class' => 'hi-drive1',
                         'content' => "\\f018"
-                    ),
-                    array(
-                        'class' => 'hi-dropbox1',
-                        'content' => "\\f019"
                     ),
                     array(
                         'class' => 'hi-artstation',
@@ -758,14 +742,6 @@
                     array(
                         'class' => 'hi-azurepipelines',
                         'content' => "\\f02c"
-                    ),
-                    array(
-                        'class' => 'hi-basecamp1',
-                        'content' => "\\f02d"
-                    ),
-                    array(
-                        'class' => 'hi-behance1',
-                        'content' => "\\f02e"
                     ),
                     array(
                         'class' => 'hi-bing',
@@ -892,7 +868,7 @@
                         'content' => "\\f04d"
                     ),
                     array(
-                        'class' => 'hi-css31',
+                        'class' => 'hi-css3-shield',
                         'content' => "\\f04e"
                     ),
                     array(
@@ -916,10 +892,6 @@
                         'content' => "\\f053"
                     ),
                     array(
-                        'class' => 'hi-amazon1',
-                        'content' => "\\f054"
-                    ),
-                    array(
                         'class' => 'hi-redo11',
                         'content' => "\\f055"
                     ),
@@ -932,16 +904,8 @@
                         'content' => "\\f057"
                     ),
                     array(
-                        'class' => 'hi-clubs1',
-                        'content' => "\\f058"
-                    ),
-                    array(
                         'class' => 'hi-spades1',
                         'content' => "\\f059"
-                    ),
-                    array(
-                        'class' => 'hi-diamonds1',
-                        'content' => "\\f05a"
                     ),
                     array(
                         'class' => 'hi-heart1',
@@ -1040,7 +1004,7 @@
                         'content' => "\\f072"
                     ),
                     array(
-                        'class' => 'hi-bell11',
+                        'class' => 'hi-bell-ringing',
                         'content' => "\\f073"
                     ),
                     array(
@@ -1616,10 +1580,6 @@
                         'content' => "\\f13b"
                     ),
                     array(
-                        'class' => 'hi-dribbble1',
-                        'content' => "\\f13c"
-                    ),
-                    array(
                         'class' => 'hi-ebay',
                         'content' => "\\f13d"
                     ),
@@ -2020,7 +1980,7 @@
                         'content' => "\\e986"
                     ),
                     array(
-                        'class' => 'hi-500px1',
+                        'class' => 'hi-500px',
                         'content' => "\\e987"
                     ),
                     array(
@@ -2054,10 +2014,6 @@
                     array(
                         'class' => 'hi-adguard',
                         'content' => "\\e98f"
-                    ),
-                    array(
-                        'class' => 'hi-adobe1',
-                        'content' => "\\e990"
                     ),
                     array(
                         'class' => 'hi-adobeacrobatreader',
@@ -2132,20 +2088,12 @@
                         'content' => "\\e9a2"
                     ),
                     array(
-                        'class' => 'hi-amazon2',
-                        'content' => "\\e9a3"
-                    ),
-                    array(
                         'class' => 'hi-amazonalexa',
                         'content' => "\\e9a4"
                     ),
                     array(
                         'class' => 'hi-amazonaws',
                         'content' => "\\e9a5"
-                    ),
-                    array(
-                        'class' => 'hi-amd1',
-                        'content' => "\\e9a6"
                     ),
                     array(
                         'class' => 'hi-americanexpress',
@@ -2164,16 +2112,8 @@
                         'content' => "\\e9ab"
                     ),
                     array(
-                        'class' => 'hi-android2',
+                        'class' => 'hi-android-head',
                         'content' => "\\e9ac"
-                    ),
-                    array(
-                        'class' => 'hi-angellist1',
-                        'content' => "\\e9ad"
-                    ),
-                    array(
-                        'class' => 'hi-angular1',
-                        'content' => "\\e9ae"
                     ),
                     array(
                         'class' => 'hi-angularuniversal',
@@ -2220,18 +2160,6 @@
                         'content' => "\\e9b9"
                     ),
                     array(
-                        'class' => 'hi-apple1',
-                        'content' => "\\e9ba"
-                    ),
-                    array(
-                        'class' => 'hi-applemusic1',
-                        'content' => "\\e9bb"
-                    ),
-                    array(
-                        'class' => 'hi-applepay1',
-                        'content' => "\\e9bc"
-                    ),
-                    array(
                         'class' => 'hi-applepodcasts',
                         'content' => "\\e9bd"
                     ),
@@ -2248,40 +2176,16 @@
                         'content' => "\\e9c0"
                     ),
                     array(
-                        'class' => 'hi-archlinux1',
-                        'content' => "\\e9c1"
-                    ),
-                    array(
                         'class' => 'hi-arduino',
                         'content' => "\\e9c2"
-                    ),
-                    array(
-                        'class' => 'hi-artstation1',
-                        'content' => "\\e9c3"
                     ),
                     array(
                         'class' => 'hi-arxiv',
                         'content' => "\\e9c4"
                     ),
                     array(
-                        'class' => 'hi-asana1',
-                        'content' => "\\e9c5"
-                    ),
-                    array(
                         'class' => 'hi-asciidoctor',
                         'content' => "\\e9c6"
-                    ),
-                    array(
-                        'class' => 'hi-at-and-t1',
-                        'content' => "\\e9c7"
-                    ),
-                    array(
-                        'class' => 'hi-atlassian1',
-                        'content' => "\\e9c8"
-                    ),
-                    array(
-                        'class' => 'hi-atom1',
-                        'content' => "\\e9c9"
                     ),
                     array(
                         'class' => 'hi-audi',
@@ -2292,20 +2196,8 @@
                         'content' => "\\e9cb"
                     ),
                     array(
-                        'class' => 'hi-aurelia1',
-                        'content' => "\\e9cc"
-                    ),
-                    array(
                         'class' => 'hi-auth0',
                         'content' => "\\e9cd"
-                    ),
-                    array(
-                        'class' => 'hi-automatic1',
-                        'content' => "\\e9ce"
-                    ),
-                    array(
-                        'class' => 'hi-autotask1',
-                        'content' => "\\e9cf"
                     ),
                     array(
                         'class' => 'hi-aventrix',
@@ -2322,10 +2214,6 @@
                     array(
                         'class' => 'hi-azuredevops',
                         'content' => "\\e9d3"
-                    ),
-                    array(
-                        'class' => 'hi-azurepipelines1',
-                        'content' => "\\e9d4"
                     ),
                     array(
                         'class' => 'hi-babel',
@@ -2352,10 +2240,6 @@
                         'content' => "\\e9da"
                     ),
                     array(
-                        'class' => 'hi-basecamp2',
-                        'content' => "\\e9db"
-                    ),
-                    array(
                         'class' => 'hi-bathasu',
                         'content' => "\\e9dc"
                     ),
@@ -2368,52 +2252,20 @@
                         'content' => "\\e9de"
                     ),
                     array(
-                        'class' => 'hi-behance3',
-                        'content' => "\\e9df"
-                    ),
-                    array(
                         'class' => 'hi-bigcartel',
                         'content' => "\\e9e0"
-                    ),
-                    array(
-                        'class' => 'hi-bing1',
-                        'content' => "\\e9e1"
                     ),
                     array(
                         'class' => 'hi-bit',
                         'content' => "\\e9e2"
                     ),
                     array(
-                        'class' => 'hi-bitbucket1',
-                        'content' => "\\e9e3"
-                    ),
-                    array(
-                        'class' => 'hi-bitcoin1',
-                        'content' => "\\e9e4"
-                    ),
-                    array(
                         'class' => 'hi-bitdefender',
                         'content' => "\\e9e5"
                     ),
                     array(
-                        'class' => 'hi-bitly1',
-                        'content' => "\\e9e6"
-                    ),
-                    array(
                         'class' => 'hi-bitrise',
                         'content' => "\\e9e7"
-                    ),
-                    array(
-                        'class' => 'hi-blackberry1',
-                        'content' => "\\e9e8"
-                    ),
-                    array(
-                        'class' => 'hi-blender1',
-                        'content' => "\\e9e9"
-                    ),
-                    array(
-                        'class' => 'hi-blogger1',
-                        'content' => "\\e9ea"
                     ),
                     array(
                         'class' => 'hi-bmcsoftware',
@@ -2426,14 +2278,6 @@
                     array(
                         'class' => 'hi-boost',
                         'content' => "\\e9ed"
-                    ),
-                    array(
-                        'class' => 'hi-bootstrap1',
-                        'content' => "\\e9ee"
-                    ),
-                    array(
-                        'class' => 'hi-bower1',
-                        'content' => "\\e9ef"
                     ),
                     array(
                         'class' => 'hi-box',
@@ -2478,14 +2322,6 @@
                     array(
                         'class' => 'hi-c',
                         'content' => "\\e9fa"
-                    ),
-                    array(
-                        'class' => 'hi-cakephp1',
-                        'content' => "\\e9fb"
-                    ),
-                    array(
-                        'class' => 'hi-campaignmonitor1',
-                        'content' => "\\e9fc"
                     ),
                     array(
                         'class' => 'hi-canva',
@@ -2556,10 +2392,6 @@
                         'content' => "\\ea0d"
                     ),
                     array(
-                        'class' => 'hi-cloudflare1',
-                        'content' => "\\ea0e"
-                    ),
-                    array(
                         'class' => 'hi-cmake',
                         'content' => "\\ea0f"
                     ),
@@ -2600,10 +2432,6 @@
                         'content' => "\\ea18"
                     ),
                     array(
-                        'class' => 'hi-codepen1',
-                        'content' => "\\ea19"
-                    ),
-                    array(
                         'class' => 'hi-coderwall',
                         'content' => "\\ea1a"
                     ),
@@ -2624,10 +2452,6 @@
                         'content' => "\\ea1e"
                     ),
                     array(
-                        'class' => 'hi-coffeescript1',
-                        'content' => "\\ea1f"
-                    ),
-                    array(
                         'class' => 'hi-coinbase',
                         'content' => "\\ea20"
                     ),
@@ -2642,10 +2466,6 @@
                     array(
                         'class' => 'hi-compropago',
                         'content' => "\\ea23"
-                    ),
-                    array(
-                        'class' => 'hi-conda-forge1',
-                        'content' => "\\ea24"
                     ),
                     array(
                         'class' => 'hi-conekta',
@@ -2704,20 +2524,12 @@
                         'content' => "\\ea32"
                     ),
                     array(
-                        'class' => 'hi-csswizardry1',
-                        'content' => "\\ea33"
-                    ),
-                    array(
                         'class' => 'hi-curl',
                         'content' => "\\ea34"
                     ),
                     array(
                         'class' => 'hi-d3-dot-js',
                         'content' => "\\ea35"
-                    ),
-                    array(
-                        'class' => 'hi-dailymotion1',
-                        'content' => "\\ea36"
                     ),
                     array(
                         'class' => 'hi-dart',
@@ -2740,10 +2552,6 @@
                         'content' => "\\ea3b"
                     ),
                     array(
-                        'class' => 'hi-debian1',
-                        'content' => "\\ea3c"
-                    ),
-                    array(
                         'class' => 'hi-deepin',
                         'content' => "\\ea3d"
                     ),
@@ -2758,18 +2566,6 @@
                     array(
                         'class' => 'hi-deliveroo',
                         'content' => "\\ea40"
-                    ),
-                    array(
-                        'class' => 'hi-dell1',
-                        'content' => "\\ea41"
-                    ),
-                    array(
-                        'class' => 'hi-deno1',
-                        'content' => "\\ea42"
-                    ),
-                    array(
-                        'class' => 'hi-dependabot1',
-                        'content' => "\\ea43"
                     ),
                     array(
                         'class' => 'hi-designernews',
@@ -2790,14 +2586,6 @@
                     array(
                         'class' => 'hi-diaspora',
                         'content' => "\\ea48"
-                    ),
-                    array(
-                        'class' => 'hi-digg1',
-                        'content' => "\\ea49"
-                    ),
-                    array(
-                        'class' => 'hi-digitalocean1',
-                        'content' => "\\ea4a"
                     ),
                     array(
                         'class' => 'hi-directus',
@@ -2852,16 +2640,8 @@
                         'content' => "\\ea57"
                     ),
                     array(
-                        'class' => 'hi-dribbble2',
-                        'content' => "\\ea58"
-                    ),
-                    array(
                         'class' => 'hi-drone',
                         'content' => "\\ea59"
-                    ),
-                    array(
-                        'class' => 'hi-dropbox2',
-                        'content' => "\\ea5a"
                     ),
                     array(
                         'class' => 'hi-drupal',
@@ -6352,16 +6132,12 @@
                         'content' => "\\edc2"
                     ),
                     array(
-                        'class' => 'hi-archive1',
+                        'class' => 'hi-archive-box',
                         'content' => "\\edc3"
                     ),
                     array(
                         'class' => 'hi-backspace',
                         'content' => "\\edc4"
-                    ),
-                    array(
-                        'class' => 'hi-block1',
-                        'content' => "\\edc5"
                     ),
                     array(
                         'class' => 'hi-clear',
@@ -6542,10 +6318,6 @@
                     array(
                         'class' => 'hi-access_alarm',
                         'content' => "\\edf2"
-                    ),
-                    array(
-                        'class' => 'hi-access_alarms',
-                        'content' => "\\edf3"
                     ),
                     array(
                         'class' => 'hi-access_time',
@@ -8580,7 +8352,7 @@
                         'content' => "\\efef"
                     ),
                     array(
-                        'class' => 'hi-accessibility1',
+                        'class' => 'hi-accessibility_old',
                         'content' => "\\eff0"
                     ),
                     array(
@@ -8610,10 +8382,6 @@
                     array(
                         'class' => 'hi-alarm_on',
                         'content' => "\\eff7"
-                    ),
-                    array(
-                        'class' => 'hi-android3',
-                        'content' => "\\eff8"
                     ),
                     array(
                         'class' => 'hi-announcement',
@@ -9710,10 +9478,6 @@
                     array(
                         'class' => 'hi-drive_folder_upload',
                         'content' => "\\f271"
-                    ),
-                    array(
-                        'class' => 'hi-duo1',
-                        'content' => "\\f272"
                     ),
                     array(
                         'class' => 'hi-explore_off',
@@ -13148,7 +12912,7 @@
                         'content' => "\\f5cc"
                     ),
                     array(
-                        'class' => 'hi-behance2',
+                        'class' => 'hi-behance-box',
                         'content' => "\\f5cd"
                     ),
                     array(
@@ -13156,7 +12920,7 @@
                         'content' => "\\f5ce"
                     ),
                     array(
-                        'class' => 'hi-500px',
+                        'class' => 'hi-500px-old',
                         'content' => "\\f5cf"
                     ),
                     array(
@@ -13208,7 +12972,7 @@
                         'content' => "\\f5db"
                     ),
                     array(
-                        'class' => 'hi-blogger2',
+                        'class' => 'hi-blogger-box',
                         'content' => "\\f5dc"
                     ),
                     array(
@@ -13230,10 +12994,6 @@
                     array(
                         'class' => 'hi-tux',
                         'content' => "\\f5e1"
-                    ),
-                    array(
-                        'class' => 'hi-appleinc',
-                        'content' => "\\f5e2"
                     ),
                     array(
                         'class' => 'hi-finder',

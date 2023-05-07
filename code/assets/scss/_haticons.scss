@@ -78,10 +78,10 @@
 .hi-ban:before {
   content: "\e911";
 }
-.hi-bell1:before {
+.hi-bell-outline:before {
   content: "\e912";
 }
-.hi-briefcase1:before {
+.hi-briefcase-outline:before {
   content: "\e913";
 }
 .hi-broken-link:before {
@@ -132,7 +132,7 @@
 .hi-clock1:before {
   content: "\e923";
 }
-.hi-cog1:before {
+.hi-cog-outline:before {
   content: "\e924";
 }
 .hi-credit-card1:before {
@@ -450,9 +450,6 @@
 .hi-filezilla:before {
   content: "\f006";
 }
-.hi-android1:before {
-  content: "\f007";
-}
 .hi-apple:before {
   content: "\f008";
 }
@@ -480,14 +477,8 @@
 .hi-blob:before {
   content: "\f010";
 }
-.hi-blog1:before {
-  content: "\f011";
-}
 .hi-cat-paw:before {
   content: "\f012";
-}
-.hi-chrome1:before {
-  content: "\f013";
 }
 .hi-coop:before {
   content: "\f014";
@@ -503,9 +494,6 @@
 }
 .hi-drive1:before {
   content: "\f018";
-}
-.hi-dropbox1:before {
-  content: "\f019";
 }
 .hi-artstation:before {
   content: "\f01a";
@@ -563,12 +551,6 @@
 }
 .hi-azurepipelines:before {
   content: "\f02c";
-}
-.hi-basecamp1:before {
-  content: "\f02d";
-}
-.hi-behance1:before {
-  content: "\f02e";
 }
 .hi-bing:before {
   content: "\f02f";
@@ -663,7 +645,7 @@
 .hi-conda-forge:before {
   content: "\f04d";
 }
-.hi-css31:before {
+.hi-css3-shield:before {
   content: "\f04e";
 }
 .hi-csswizardry:before {
@@ -681,9 +663,6 @@
 .hi-youtube-play:before {
   content: "\f053";
 }
-.hi-amazon1:before {
-  content: "\f054";
-}
 .hi-redo11:before {
   content: "\f055";
 }
@@ -693,14 +672,8 @@
 .hi-profile1:before {
   content: "\f057";
 }
-.hi-clubs1:before {
-  content: "\f058";
-}
 .hi-spades1:before {
   content: "\f059";
-}
-.hi-diamonds1:before {
-  content: "\f05a";
 }
 .hi-heart1:before {
   content: "\f05b";
@@ -774,7 +747,7 @@
 .hi-zoom-out11:before {
   content: "\f072";
 }
-.hi-bell11:before {
+.hi-bell-ringing:before {
   content: "\f073";
 }
 .hi-location1:before {
@@ -1206,9 +1179,6 @@
 .hi-digitalocean:before {
   content: "\f13b";
 }
-.hi-dribbble1:before {
-  content: "\f13c";
-}
 .hi-ebay:before {
   content: "\f13d";
 }
@@ -1536,9 +1506,6 @@
 .hi-adguard:before {
   content: "\e98f";
 }
-.hi-adobe1:before {
-  content: "\e990";
-}
 .hi-adobeacrobatreader:before {
   content: "\e991";
 }
@@ -1593,17 +1560,11 @@
 .hi-alliedmodders:before {
   content: "\e9a2";
 }
-.hi-amazon2:before {
-  content: "\e9a3";
-}
 .hi-amazonalexa:before {
   content: "\e9a4";
 }
 .hi-amazonaws:before {
   content: "\e9a5";
-}
-.hi-amd1:before {
-  content: "\e9a6";
 }
 .hi-americanexpress:before {
   content: "\e9a7";
@@ -1617,14 +1578,8 @@
 .hi-anchor:before {
   content: "\e9ab";
 }
-.hi-android2:before {
+.hi-android-head:before {
   content: "\e9ac";
-}
-.hi-angellist1:before {
-  content: "\e9ad";
-}
-.hi-angular1:before {
-  content: "\e9ae";
 }
 .hi-angularuniversal:before {
   content: "\e9af";
@@ -1659,15 +1614,6 @@
 .hi-apachespark:before {
   content: "\e9b9";
 }
-.hi-apple1:before {
-  content: "\e9ba";
-}
-.hi-applemusic1:before {
-  content: "\e9bb";
-}
-.hi-applepay1:before {
-  content: "\e9bc";
-}
 .hi-applepodcasts:before {
   content: "\e9bd";
 }
@@ -1680,32 +1626,14 @@
 .hi-archiveofourown:before {
   content: "\e9c0";
 }
-.hi-archlinux1:before {
-  content: "\e9c1";
-}
 .hi-arduino:before {
   content: "\e9c2";
-}
-.hi-artstation1:before {
-  content: "\e9c3";
 }
 .hi-arxiv:before {
   content: "\e9c4";
 }
-.hi-asana1:before {
-  content: "\e9c5";
-}
 .hi-asciidoctor:before {
   content: "\e9c6";
-}
-.hi-at-and-t1:before {
-  content: "\e9c7";
-}
-.hi-atlassian1:before {
-  content: "\e9c8";
-}
-.hi-atom1:before {
-  content: "\e9c9";
 }
 .hi-audi:before {
   content: "\e9ca";
@@ -1713,17 +1641,8 @@
 .hi-audible:before {
   content: "\e9cb";
 }
-.hi-aurelia1:before {
-  content: "\e9cc";
-}
 .hi-auth0:before {
   content: "\e9cd";
-}
-.hi-automatic1:before {
-  content: "\e9ce";
-}
-.hi-autotask1:before {
-  content: "\e9cf";
 }
 .hi-aventrix:before {
   content: "\e9d0";
@@ -1736,9 +1655,6 @@
 }
 .hi-azuredevops:before {
   content: "\e9d3";
-}
-.hi-azurepipelines1:before {
-  content: "\e9d4";
 }
 .hi-babel:before {
   content: "\e9d5";
@@ -1758,9 +1674,6 @@
 .hi-bandlab:before {
   content: "\e9da";
 }
-.hi-basecamp2:before {
-  content: "\e9db";
-}
 .hi-bathasu:before {
   content: "\e9dc";
 }
@@ -1770,14 +1683,8 @@
 .hi-beatsbydre:before {
   content: "\e9de";
 }
-.hi-behance3:before {
-  content: "\e9df";
-}
 .hi-bigcartel:before {
   content: "\e9e0";
-}
-.hi-bing1:before {
-  content: "\e9e1";
 }
 .hi-bit:before {
   content: "\e9e2";
@@ -1785,26 +1692,11 @@
 .hi-bitbucket1:before {
   content: "\e9e3";
 }
-.hi-bitcoin1:before {
-  content: "\e9e4";
-}
 .hi-bitdefender:before {
   content: "\e9e5";
 }
-.hi-bitly1:before {
-  content: "\e9e6";
-}
 .hi-bitrise:before {
   content: "\e9e7";
-}
-.hi-blackberry1:before {
-  content: "\e9e8";
-}
-.hi-blender1:before {
-  content: "\e9e9";
-}
-.hi-blogger1:before {
-  content: "\e9ea";
 }
 .hi-bmcsoftware:before {
   content: "\e9eb";
@@ -1814,12 +1706,6 @@
 }
 .hi-boost:before {
   content: "\e9ed";
-}
-.hi-bootstrap1:before {
-  content: "\e9ee";
-}
-.hi-bower1:before {
-  content: "\e9ef";
 }
 .hi-box:before {
   content: "\e9f0";
@@ -1853,12 +1739,6 @@
 }
 .hi-c:before {
   content: "\e9fa";
-}
-.hi-cakephp1:before {
-  content: "\e9fb";
-}
-.hi-campaignmonitor1:before {
-  content: "\e9fc";
 }
 .hi-canva:before {
   content: "\e9fd";
@@ -1911,9 +1791,6 @@
 .hi-cloudbees:before {
   content: "\ea0d";
 }
-.hi-cloudflare1:before {
-  content: "\ea0e";
-}
 .hi-cmake:before {
   content: "\ea0f";
 }
@@ -1944,9 +1821,6 @@
 .hi-codeigniter:before {
   content: "\ea18";
 }
-.hi-codepen1:before {
-  content: "\ea19";
-}
 .hi-coderwall:before {
   content: "\ea1a";
 }
@@ -1962,9 +1836,6 @@
 .hi-codio:before {
   content: "\ea1e";
 }
-.hi-coffeescript1:before {
-  content: "\ea1f";
-}
 .hi-coinbase:before {
   content: "\ea20";
 }
@@ -1976,9 +1847,6 @@
 }
 .hi-compropago:before {
   content: "\ea23";
-}
-.hi-conda-forge1:before {
-  content: "\ea24";
 }
 .hi-conekta:before {
   content: "\ea25";
@@ -2022,9 +1890,6 @@
 .hi-css32:before {
   content: "\ea32";
 }
-.hi-csswizardry1:before {
-  content: "\ea33";
-}
 .hi-curl:before {
   content: "\ea34";
 }
@@ -2049,9 +1914,6 @@
 .hi-dblp:before {
   content: "\ea3b";
 }
-.hi-debian1:before {
-  content: "\ea3c";
-}
 .hi-deepin:before {
   content: "\ea3d";
 }
@@ -2064,35 +1926,17 @@
 .hi-deliveroo:before {
   content: "\ea40";
 }
-.hi-dell1:before {
-  content: "\ea41";
-}
-.hi-deno1:before {
-  content: "\ea42";
-}
-.hi-dependabot1:before {
-  content: "\ea43";
-}
 .hi-designernews:before {
   content: "\ea44";
 }
 .hi-dev-dot-to:before {
   content: "\ea45";
 }
-.hi-deviantart1:before {
-  content: "\ea46";
-}
 .hi-devrant:before {
   content: "\ea47";
 }
 .hi-diaspora:before {
   content: "\ea48";
-}
-.hi-digg1:before {
-  content: "\ea49";
-}
-.hi-digitalocean1:before {
-  content: "\ea4a";
 }
 .hi-directus:before {
   content: "\ea4b";
@@ -2133,14 +1977,8 @@
 .hi-draugiem-dot-lv:before {
   content: "\ea57";
 }
-.hi-dribbble2:before {
-  content: "\ea58";
-}
 .hi-drone:before {
   content: "\ea59";
-}
-.hi-dropbox2:before {
-  content: "\ea5a";
 }
 .hi-drupal:before {
   content: "\ea5b";
@@ -4758,14 +4596,11 @@
 .hi-add_circle_outline:before {
   content: "\edc2";
 }
-.hi-archive1:before {
+.hi-archive-box:before {
   content: "\edc3";
 }
 .hi-backspace:before {
   content: "\edc4";
-}
-.hi-block1:before {
-  content: "\edc5";
 }
 .hi-clear:before {
   content: "\edc6";
@@ -6429,7 +6264,7 @@
 .hi-3d_rotation:before {
   content: "\efef";
 }
-.hi-accessibility1:before {
+.hi-accessibility_old:before {
   content: "\eff0";
 }
 .hi-account_balance:before {
@@ -6452,9 +6287,6 @@
 }
 .hi-alarm_on:before {
   content: "\eff7";
-}
-.hi-android3:before {
-  content: "\eff8";
 }
 .hi-announcement:before {
   content: "\eff9";
@@ -7277,9 +7109,6 @@
 }
 .hi-drive_folder_upload:before {
   content: "\f271";
-}
-.hi-duo1:before {
-  content: "\f272";
 }
 .hi-explore_off:before {
   content: "\f273";
@@ -9855,7 +9684,7 @@
 .hi-behance:before {
   content: "\f5cc";
 }
-.hi-behance2:before {
+.hi-behance-box:before {
   content: "\f5cd";
 }
 .hi-deviantart:before {
@@ -9900,7 +9729,7 @@
 .hi-blogger:before {
   content: "\f5db";
 }
-.hi-blogger2:before {
+.hi-blogger-box:before {
   content: "\f5dc";
 }
 .hi-tumblr:before {
@@ -9917,9 +9746,6 @@
 }
 .hi-tux:before {
   content: "\f5e1";
-}
-.hi-appleinc:before {
-  content: "\f5e2";
 }
 .hi-finder:before {
   content: "\f5e3";
